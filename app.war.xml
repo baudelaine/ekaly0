@@ -1,0 +1,3 @@
+<archive>
+    <dir sourceOnDisk="/opt/wks/ekaly/WebContent" targetInArchive="/"/>
+</archive>
