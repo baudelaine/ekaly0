@@ -25,13 +25,13 @@ public class Main3 {
 
 	public static void main(String[] args) throws KeyManagementException, NoSuchAlgorithmException, IOException {
 		
-		Path projectPath = Paths.get("/opt/wks/wb2018");
+		Path projectPath = Paths.get("/opt/wks/ekaly");
 		
 		Properties props = new Properties();
 		props.load(new FileInputStream(projectPath + "/WebContent/res/conf.properties"));
 		
-		String url = Tools.getCredentialFromVS("speech_to_text").get("url");
-		String apikey = Tools.getCredentialFromVS("speech_to_text").get("apikey");
+		String url = "https://stream.watsonplatform.net/speech-to-text/api";
+		String apikey = "p8AoIWeoCRnxau-OWYR38_JYXjQ6ZniQp9xil55jQS_M";
     	
 		OkHttpClient s2tOkHttp = new UnsafeOkHttpClient().getUnsafeOkHttpClient().newBuilder()
 				.addInterceptor(new BasicAuthInterceptor("apikey", apikey))
@@ -46,7 +46,7 @@ public class Main3 {
 			.addHeader("Transfer-Encoding", props.getProperty("S2T_TRANSFER_ENCODING"))		
 			.url(urlBuilder.toString());		
 		
-		Path soundPath = Paths.get(projectPath + "/WebContent/playlist/Talking-To-A-Difficult-Customer.mp3");
+		Path soundPath = Paths.get(projectPath + "/WebContent/playlist/fauchon0.mp3");
 		
 //		RequestBody body = new MultipartBody.Builder()
 //			.setType(MultipartBody.FORM)
@@ -60,7 +60,7 @@ public class Main3 {
 			.build();
 		
 		Response s2tResponse = s2tOkHttp.newCall(s2tr).execute();
-		Files.write(Paths.get(projectPath + "/s2t.resp.json"), s2tResponse.body().string().getBytes());
+		Files.write(Paths.get(projectPath + "/WebContent/transcriptions/watson/fauchon0.json"), s2tResponse.body().string().getBytes());
 		
 		
 		

@@ -34,7 +34,7 @@ public class Main4 {
 //		Properties props = new Properties();
 //		props.load(new FileInputStream(projectPath + "/WebContent/res/conf.properties"));
 		
-		Path jsonPath = Paths.get(projectPath + "/transcriptions/fauchon6.json");
+		Path jsonPath = Paths.get(projectPath + "/analysis/watson/fauchon6.json");
 		
 		String json = new String(Files.readAllBytes(jsonPath));
 		
@@ -114,7 +114,7 @@ public class Main4 {
 		}
 		
     	
-		Files.write(Paths.get(projectPath + "/analysis/fauchon6.json"), Tools.toJSON(whoSaidWhatWhen).getBytes());
+		Files.write(Paths.get(projectPath + "/analysis/watson/fauchon6.json"), Tools.toJSON(whoSaidWhatWhen).getBytes());
 		
 		
 		

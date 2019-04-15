@@ -1,0 +1,8239 @@
+                                                            {
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "en", 
+                     0.1, 
+                     0.27
+                  ], 
+                  [
+                     "raison", 
+                     0.27, 
+                     0.56
+                  ], 
+                  [
+                     "d'un", 
+                     0.56, 
+                     0.75
+                  ], 
+                  [
+                     "virus", 
+                     0.75, 
+                     1.09
+                  ]
+               ], 
+               "confidence": 0.45, 
+               "transcript": "en raison d'un virus "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "fauchon", 
+                     1.92, 
+                     2.32
+                  ], 
+                  [
+                     "bonjour", 
+                     2.32, 
+                     2.64
+                  ], 
+                  [
+                     "maria", 
+                     2.64, 
+                     2.94
+                  ], 
+                  [
+                     "votre", 
+                     2.94, 
+                     3.19
+                  ], 
+                  [
+                     "service", 
+                     3.19, 
+                     3.89
+                  ]
+               ], 
+               "confidence": 0.87, 
+               "transcript": "fauchon bonjour maria votre service "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "oui", 
+                     4.39, 
+                     4.72
+                  ], 
+                  [
+                     "bonjour", 
+                     4.72, 
+                     5.04
+                  ], 
+                  [
+                     "je", 
+                     5.04, 
+                     5.2
+                  ], 
+                  [
+                     "vous", 
+                     5.2, 
+                     5.47
+                  ], 
+                  [
+                     "que", 
+                     5.91, 
+                     6.05
+                  ], 
+                  [
+                     "nous", 
+                     6.05, 
+                     6.25
+                  ], 
+                  [
+                     "avons", 
+                     6.25, 
+                     6.53
+                  ], 
+                  [
+                     "reçu", 
+                     6.53, 
+                     6.85
+                  ], 
+                  [
+                     "un", 
+                     6.85, 
+                     7
+                  ], 
+                  [
+                     "colis", 
+                     7, 
+                     7.64
+                  ], 
+                  [
+                     "et", 
+                     7.97, 
+                     8.06
+                  ], 
+                  [
+                     "nous", 
+                     8.06, 
+                     8.2
+                  ], 
+                  [
+                     "n'avons", 
+                     8.2, 
+                     8.48
+                  ], 
+                  [
+                     "pas", 
+                     8.48, 
+                     8.65
+                  ], 
+                  [
+                     "de", 
+                     8.65, 
+                     8.76
+                  ], 
+                  [
+                     "carte", 
+                     8.76, 
+                     9.09
+                  ], 
+                  [
+                     "de", 
+                     9.12, 
+                     9.21
+                  ], 
+                  [
+                     "la", 
+                     9.21, 
+                     9.32
+                  ], 
+                  [
+                     "personne", 
+                     9.32, 
+                     9.7
+                  ], 
+                  [
+                     "qui", 
+                     9.7, 
+                     9.91
+                  ], 
+                  [
+                     "l'envoyé", 
+                     9.91, 
+                     10.44
+                  ], 
+                  [
+                     "de", 
+                     10.44, 
+                     10.47
+                  ], 
+                  [
+                     "la", 
+                     10.47, 
+                     10.63
+                  ], 
+                  [
+                     "societé", 
+                     10.63, 
+                     11.24
+                  ], 
+                  [
+                     "artiste", 
+                     11.39, 
+                     11.79
+                  ], 
+                  [
+                     "possible", 
+                     11.79, 
+                     12.11
+                  ], 
+                  [
+                     "pour", 
+                     12.11, 
+                     12.41
+                  ], 
+                  [
+                     "donner", 
+                     12.47, 
+                     12.69
+                  ], 
+                  [
+                     "le", 
+                     12.69, 
+                     12.81
+                  ], 
+                  [
+                     "nom", 
+                     12.81, 
+                     12.95
+                  ], 
+                  [
+                     "du", 
+                     12.95, 
+                     13.09
+                  ], 
+                  [
+                     "client", 
+                     13.09, 
+                     13.48
+                  ], 
+                  [
+                     "peut", 
+                     13.52, 
+                     13.69
+                  ], 
+                  [
+                     "être", 
+                     13.69, 
+                     13.89
+                  ], 
+                  [
+                     "client", 
+                     13.89, 
+                     14.17
+                  ], 
+                  [
+                     "vous", 
+                     14.17, 
+                     14.26
+                  ], 
+                  [
+                     "donnant", 
+                     14.26, 
+                     14.6
+                  ], 
+                  [
+                     "les", 
+                     14.6, 
+                     14.73
+                  ], 
+                  [
+                     "références", 
+                     14.73, 
+                     15.29
+                  ], 
+                  [
+                     "du", 
+                     15.32, 
+                     15.44
+                  ], 
+                  [
+                     "chrono", 
+                     15.44, 
+                     15.76
+                  ], 
+                  [
+                     "pour", 
+                     15.76, 
+                     15.96
+                  ], 
+                  [
+                     "ce", 
+                     15.96, 
+                     16
+                  ], 
+                  [
+                     "qu'on", 
+                     16, 
+                     16.2
+                  ], 
+                  [
+                     "a", 
+                     16.2, 
+                     16.25
+                  ], 
+                  [
+                     "reçu", 
+                     16.25, 
+                     16.75
+                  ], 
+                  [
+                     "alors", 
+                     16.95, 
+                     17.24
+                  ], 
+                  [
+                     "oui", 
+                     17.24, 
+                     17.43
+                  ], 
+                  [
+                     "je", 
+                     17.46, 
+                     17.62
+                  ], 
+                  [
+                     "vais", 
+                     17.62, 
+                     17.69
+                  ], 
+                  [
+                     "première", 
+                     17.69, 
+                     18.04
+                  ], 
+                  [
+                     "référence", 
+                     18.04, 
+                     18.48
+                  ], 
+                  [
+                     "s'il", 
+                     18.48, 
+                     18.61
+                  ], 
+                  [
+                     "vous", 
+                     18.61, 
+                     18.68
+                  ], 
+                  [
+                     "plait", 
+                     18.68, 
+                     18.97
+                  ]
+               ], 
+               "confidence": 0.83, 
+               "transcript": "oui bonjour je vous que nous avons reçu un colis et nous n'avons pas de carte de la personne qui l'envoyé de la societé artiste possible pour donner le nom du client peut être client vous donnant les références du chrono pour ce qu'on a reçu alors oui je vais première référence s'il vous plait "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "temps", 
+                     20.56, 
+                     20.76
+                  ], 
+                  [
+                     "de", 
+                     20.76, 
+                     20.92
+                  ], 
+                  [
+                     "paix", 
+                     20.95, 
+                     21.16
+                  ], 
+                  [
+                     "que", 
+                     21.19, 
+                     21.33
+                  ], 
+                  [
+                     "je", 
+                     21.33, 
+                     21.49
+                  ], 
+                  [
+                     "ne", 
+                     21.49, 
+                     21.72
+                  ], 
+                  [
+                     "souhaite", 
+                     21.72, 
+                     22.04
+                  ], 
+                  [
+                     "pas", 
+                     22.07, 
+                     22.92
+                  ], 
+                  [
+                     "par", 
+                     23.05, 
+                     23.28
+                  ], 
+                  [
+                     "donc", 
+                     23.55, 
+                     23.77
+                  ], 
+                  [
+                     "si", 
+                     23.77, 
+                     24.05
+                  ], 
+                  [
+                     "excepté", 
+                     24.08, 
+                     24.75
+                  ], 
+                  [
+                     "le", 
+                     24.97, 
+                     25.07
+                  ], 
+                  [
+                     "oui", 
+                     25.07, 
+                     25.28
+                  ]
+               ], 
+               "confidence": 0.66, 
+               "transcript": "temps de paix que je ne souhaite pas par donc si excepté le oui "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "dit", 
+                     26.03, 
+                     26.79
+                  ], 
+                  [
+                     "oui", 
+                     26.82, 
+                     27.14
+                  ]
+               ], 
+               "confidence": 0.57, 
+               "transcript": "dit oui "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "zéro", 
+                     27.71, 
+                     28.11
+                  ], 
+                  [
+                     "quatre", 
+                     28.11, 
+                     28.66
+                  ], 
+                  [
+                     "ans", 
+                     28.69, 
+                     28.81
+                  ], 
+                  [
+                     "oui", 
+                     28.81, 
+                     29
+                  ]
+               ], 
+               "confidence": 0.83, 
+               "transcript": "zéro quatre ans oui "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "quatre-vingt-dix-sept", 
+                     29.61, 
+                     30.66
+                  ], 
+                  [
+                     "mon", 
+                     30.69, 
+                     31.19
+                  ]
+               ], 
+               "confidence": 0.62, 
+               "transcript": "quatre-vingt-dix-sept mon "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "cinquante", 
+                     31.69, 
+                     32.19
+                  ], 
+                  [
+                     "et", 
+                     32.19, 
+                     32.23
+                  ], 
+                  [
+                     "un", 
+                     32.23, 
+                     32.43
+                  ], 
+                  [
+                     "oui", 
+                     32.74, 
+                     33.09
+                  ]
+               ], 
+               "confidence": 0.9, 
+               "transcript": "cinquante et un oui "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "deux", 
+                     33.68, 
+                     34.3
+                  ], 
+                  [
+                     "oui", 
+                     34.33, 
+                     34.73
+                  ], 
+                  [
+                     "s", 
+                     34.77, 
+                     35.33
+                  ], 
+                  [
+                     "insère", 
+                     35.36, 
+                     36.17
+                  ]
+               ], 
+               "confidence": 0.52, 
+               "transcript": "deux oui s insère "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "experts", 
+                     37.02, 
+                     37.5
+                  ], 
+                  [
+                     "comme", 
+                     37.5, 
+                     37.69
+                  ], 
+                  [
+                     "france", 
+                     37.69, 
+                     38.14
+                  ]
+               ], 
+               "confidence": 0.7, 
+               "transcript": "experts comme france "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "c'est", 
+                     38.66, 
+                     38.86
+                  ], 
+                  [
+                     "ça", 
+                     38.86, 
+                     39.15
+                  ], 
+                  [
+                     "aux", 
+                     39.32, 
+                     40.04
+                  ], 
+                  [
+                     "autres", 
+                     40.91, 
+                     41.11
+                  ], 
+                  [
+                     "parfait", 
+                     41.14, 
+                     41.8
+                  ], 
+                  [
+                     "vous", 
+                     41.8, 
+                     42.6
+                  ], 
+                  [
+                     "n'avez", 
+                     42.63, 
+                     43
+                  ], 
+                  [
+                     "devenant", 
+                     43, 
+                     43.5
+                  ], 
+                  [
+                     "entretiennent", 
+                     43.5, 
+                     43.92
+                  ], 
+                  [
+                     "autres", 
+                     43.92, 
+                     44.41
+                  ]
+               ], 
+               "confidence": 0.48, 
+               "transcript": "c'est ça aux autres parfait vous n'avez devenant entretiennent autres "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "ont", 
+                     44.8, 
+                     45.23
+                  ], 
+                  [
+                     "pas", 
+                     45.26, 
+                     45.39
+                  ], 
+                  [
+                     "encore", 
+                     45.39, 
+                     45.88
+                  ], 
+                  [
+                     "quelle", 
+                     45.88, 
+                     46.07
+                  ], 
+                  [
+                     "est", 
+                     46.07, 
+                     46.1
+                  ], 
+                  [
+                     "votre", 
+                     46.1, 
+                     46.31
+                  ], 
+                  [
+                     "code", 
+                     46.31, 
+                     46.47
+                  ], 
+                  [
+                     "postal", 
+                     46.47, 
+                     47.03
+                  ]
+               ], 
+               "confidence": 0.89, 
+               "transcript": "ont pas encore quelle est votre code postal "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "alors", 
+                     47.77, 
+                     47.97
+                  ], 
+                  [
+                     "nous", 
+                     47.97, 
+                     48.19
+                  ], 
+                  [
+                     "le", 
+                     48.19, 
+                     48.32
+                  ], 
+                  [
+                     "trente", 
+                     48.32, 
+                     48.64
+                  ], 
+                  [
+                     "juin", 
+                     48.64, 
+                     49.12
+                  ], 
+                  [
+                     "deux", 
+                     49.12, 
+                     49.24
+                  ], 
+                  [
+                     "cents", 
+                     49.24, 
+                     49.67
+                  ], 
+                  [
+                     "à", 
+                     49.71, 
+                     49.81
+                  ], 
+                  [
+                     "tous", 
+                     49.81, 
+                     50.52
+                  ]
+               ], 
+               "confidence": 0.87, 
+               "transcript": "alors nous le trente juin deux cents à tous "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "on", 
+                     50.9, 
+                     51.34
+                  ], 
+                  [
+                     "sait", 
+                     51.43, 
+                     51.76
+                  ], 
+                  [
+                     "que", 
+                     51.76, 
+                     51.91
+                  ], 
+                  [
+                     "l'on", 
+                     51.91, 
+                     52.09
+                  ], 
+                  [
+                     "catherine", 
+                     52.09, 
+                     52.69
+                  ], 
+                  [
+                     "treasury", 
+                     52.69, 
+                     53.46
+                  ], 
+                  [
+                     "j", 
+                     53.46, 
+                     53.74
+                  ], 
+                  [
+                     "suis", 
+                     53.74, 
+                     53.96
+                  ], 
+                  [
+                     "font", 
+                     53.96, 
+                     54.25
+                  ], 
+                  [
+                     "leur", 
+                     54.25, 
+                     54.46
+                  ]
+               ], 
+               "confidence": 0.45, 
+               "transcript": "on sait que l'on catherine treasury j suis font leur "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "aves", 
+                     55.38, 
+                     55.92
+                  ], 
+                  [
+                     "catherine", 
+                     56.74, 
+                     57.24
+                  ], 
+                  [
+                     "mon", 
+                     57.24, 
+                     57.43
+                  ], 
+                  [
+                     "frère", 
+                     57.43, 
+                     57.71
+                  ], 
+                  [
+                     "se", 
+                     57.71, 
+                     57.82
+                  ], 
+                  [
+                     "décrit", 
+                     57.82, 
+                     58.41
+                  ]
+               ], 
+               "confidence": 0.48, 
+               "transcript": "aves catherine mon frère se décrit "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "onze", 
+                     59.21, 
+                     59.76
+                  ], 
+                  [
+                     "catherine", 
+                     59.85, 
+                     60.43
+                  ], 
+                  [
+                     "mon", 
+                     60.46, 
+                     60.62
+                  ], 
+                  [
+                     "secret", 
+                     60.62, 
+                     60.91
+                  ], 
+                  [
+                     "m", 
+                     60.91, 
+                     61.13
+                  ], 
+                  [
+                     "hossein", 
+                     61.13, 
+                     61.62
+                  ], 
+                  [
+                     "tes", 
+                     61.62, 
+                     62.13
+                  ], 
+                  [
+                     "affaires", 
+                     62.16, 
+                     62.55
+                  ], 
+                  [
+                     "ayaz", 
+                     62.55, 
+                     63.12
+                  ]
+               ], 
+               "confidence": 0.46, 
+               "transcript": "onze catherine mon secret m hossein tes affaires ayaz "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "d'accord", 
+                     63.58, 
+                     64.2
+                  ]
+               ], 
+               "confidence": 0.54, 
+               "transcript": "d'accord "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "al", 
+                     66.5, 
+                     66.84
+                  ]
+               ], 
+               "confidence": 0.93, 
+               "transcript": "al "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "je", 
+                     69.23, 
+                     69.33
+                  ], 
+                  [
+                     "vous", 
+                     69.33, 
+                     69.5
+                  ], 
+                  [
+                     "demande", 
+                     69.5, 
+                     69.66
+                  ], 
+                  [
+                     "juste", 
+                     69.66, 
+                     69.88
+                  ], 
+                  [
+                     "un", 
+                     69.88, 
+                     69.97
+                  ], 
+                  [
+                     "instant", 
+                     69.97, 
+                     70.24
+                  ], 
+                  [
+                     "je", 
+                     70.24, 
+                     70.42
+                  ], 
+                  [
+                     "vais", 
+                     70.42, 
+                     70.5
+                  ], 
+                  [
+                     "me", 
+                     70.5, 
+                     70.56
+                  ], 
+                  [
+                     "renseigner", 
+                     70.56, 
+                     70.95
+                  ], 
+                  [
+                     "je", 
+                     70.95, 
+                     71.03
+                  ], 
+                  [
+                     "reviens", 
+                     71.03, 
+                     71.27
+                  ], 
+                  [
+                     "vers", 
+                     71.27, 
+                     71.43
+                  ], 
+                  [
+                     "vous", 
+                     71.43, 
+                     71.67
+                  ], 
+                  [
+                     "merci", 
+                     71.86, 
+                     72.35
+                  ]
+               ], 
+               "confidence": 0.93, 
+               "transcript": "je vous demande juste un instant je vais me renseigner je reviens vers vous merci "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "sanctions", 
+                     74.01, 
+                     74.52
+                  ]
+               ], 
+               "confidence": 0.27, 
+               "transcript": "sanctions "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "mouvement", 
+                     74.81, 
+                     75.1
+                  ], 
+                  [
+                     "contre", 
+                     75.1, 
+                     75.39
+                  ], 
+                  [
+                     "le", 
+                     75.39, 
+                     75.45
+                  ], 
+                  [
+                     "plan", 
+                     75.45, 
+                     75.7
+                  ], 
+                  [
+                     "de", 
+                     75.7, 
+                     75.81
+                  ], 
+                  [
+                     "la", 
+                     75.81, 
+                     75.92
+                  ], 
+                  [
+                     "malines", 
+                     75.92, 
+                     76.56
+                  ], 
+                  [
+                     "du", 
+                     76.67, 
+                     76.85
+                  ], 
+                  [
+                     "lundi", 
+                     76.85, 
+                     77.28
+                  ], 
+                  [
+                     "au", 
+                     77.48, 
+                     77.58
+                  ], 
+                  [
+                     "samedi", 
+                     77.58, 
+                     78.12
+                  ], 
+                  [
+                     "de", 
+                     78.38, 
+                     78.51
+                  ], 
+                  [
+                     "huit", 
+                     78.51, 
+                     78.72
+                  ], 
+                  [
+                     "heures", 
+                     78.72, 
+                     78.84
+                  ], 
+                  [
+                     "à", 
+                     78.84, 
+                     78.91
+                  ], 
+                  [
+                     "dixneuf", 
+                     78.91, 
+                     79.28
+                  ], 
+                  [
+                     "heures", 
+                     79.28, 
+                     79.56
+                  ], 
+                  [
+                     "ainsi", 
+                     79.86, 
+                     80.11
+                  ], 
+                  [
+                     "que", 
+                     80.11, 
+                     80.26
+                  ], 
+                  [
+                     "son", 
+                     80.26, 
+                     80.45
+                  ], 
+                  [
+                     "autre", 
+                     80.45, 
+                     80.63
+                  ], 
+                  [
+                     "vous", 
+                     80.63, 
+                     80.82
+                  ], 
+                  [
+                     "six", 
+                     80.82, 
+                     81.01
+                  ], 
+                  [
+                     "autres", 
+                     81.31, 
+                     81.84
+                  ], 
+                  [
+                     "place", 
+                     81.84, 
+                     82.1
+                  ], 
+                  [
+                     "de", 
+                     82.1, 
+                     82.19
+                  ], 
+                  [
+                     "la", 
+                     82.19, 
+                     82.3
+                  ], 
+                  [
+                     "madeleine", 
+                     82.3, 
+                     82.82
+                  ], 
+                  [
+                     "de", 
+                     83.04, 
+                     83.18
+                  ], 
+                  [
+                     "dix", 
+                     83.18, 
+                     83.43
+                  ], 
+                  [
+                     "heures", 
+                     83.43, 
+                     83.52
+                  ], 
+                  [
+                     "à", 
+                     83.52, 
+                     83.61
+                  ], 
+                  [
+                     "vingt", 
+                     83.61, 
+                     83.81
+                  ], 
+                  [
+                     "heures", 
+                     83.81, 
+                     83.9
+                  ], 
+                  [
+                     "trente", 
+                     83.9, 
+                     84.2
+                  ], 
+                  [
+                     "ce", 
+                     84.2, 
+                     84.34
+                  ], 
+                  [
+                     "qui", 
+                     84.61, 
+                     84.82
+                  ], 
+                  [
+                     "exceptionnellement", 
+                     84.82, 
+                     85.63
+                  ], 
+                  [
+                     "dimanche", 
+                     85.63, 
+                     86.2
+                  ], 
+                  [
+                     "un", 
+                     86.33, 
+                     86.48
+                  ], 
+                  [
+                     "train", 
+                     86.48, 
+                     86.74
+                  ], 
+                  [
+                     "tout", 
+                     86.74, 
+                     86.9
+                  ], 
+                  [
+                     "en", 
+                     86.9, 
+                     86.99
+                  ], 
+                  [
+                     "décembre", 
+                     86.99, 
+                     87.41
+                  ]
+               ], 
+               "confidence": 0.76, 
+               "transcript": "mouvement contre le plan de la malines du lundi au samedi de huit heures à dixneuf heures ainsi que son autre vous six autres place de la madeleine de dix heures à vingt heures trente ce qui exceptionnellement dimanche un train tout en décembre "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "de", 
+                     87.71, 
+                     87.88
+                  ], 
+                  [
+                     "deux", 
+                     88.01, 
+                     88.24
+                  ], 
+                  [
+                     "bâtiments", 
+                     88.24, 
+                     88.73
+                  ]
+               ], 
+               "confidence": 0.54, 
+               "transcript": "de deux bâtiments "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "vous", 
+                     89.35, 
+                     89.52
+                  ], 
+                  [
+                     "pouvez", 
+                     89.52, 
+                     89.84
+                  ], 
+                  [
+                     "également", 
+                     89.84, 
+                     90.23
+                  ], 
+                  [
+                     "découvrir", 
+                     90.23, 
+                     90.82
+                  ], 
+                  [
+                     "tout", 
+                     90.82, 
+                     91.05
+                  ]
+               ], 
+               "confidence": 0.83, 
+               "transcript": "vous pouvez également découvrir tout "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "cadeaux", 
+                     91.74, 
+                     92.15
+                  ], 
+                  [
+                     "et", 
+                     92.34, 
+                     92.5
+                  ], 
+                  [
+                     "offre", 
+                     92.53, 
+                     92.8
+                  ], 
+                  [
+                     "de", 
+                     92.8, 
+                     92.88
+                  ], 
+                  [
+                     "pâtisseries", 
+                     92.88, 
+                     93.37
+                  ], 
+                  [
+                     "sur", 
+                     93.37, 
+                     93.65
+                  ], 
+                  [
+                     "d'autres", 
+                     93.65, 
+                     93.91
+                  ], 
+                  [
+                     "citoyens", 
+                     93.91, 
+                     94.46
+                  ], 
+                  [
+                     "levées", 
+                     94.82, 
+                     96.07
+                  ], 
+                  [
+                     "point", 
+                     96.17, 
+                     96.43
+                  ], 
+                  [
+                     "fauchon", 
+                     96.51, 
+                     97.05
+                  ]
+               ], 
+               "confidence": 0.64, 
+               "transcript": "cadeaux et offre de pâtisseries sur d'autres citoyens levées point fauchon "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "suarez", 
+                     98.88, 
+                     99.29
+                  ], 
+                  [
+                     "six", 
+                     99.29, 
+                     99.52
+                  ], 
+                  [
+                     "faucheurs", 
+                     99.52, 
+                     100.15
+                  ]
+               ], 
+               "confidence": 0.24, 
+               "transcript": "suarez six faucheurs "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "ah", 
+                     100.65, 
+                     100.82
+                  ], 
+                  [
+                     "t", 
+                     100.82, 
+                     101.01
+                  ], 
+                  [
+                     "v", 
+                     101.01, 
+                     101.49
+                  ], 
+                  [
+                     "vers", 
+                     101.49, 
+                     101.79
+                  ], 
+                  [
+                     "leurs", 
+                     101.79, 
+                     102.04
+                  ], 
+                  [
+                     "missiles", 
+                     102.04, 
+                     102.52
+                  ], 
+                  [
+                     "trentesix", 
+                     102.84, 
+                     103.15
+                  ], 
+                  [
+                     "ces", 
+                     103.15, 
+                     103.5
+                  ], 
+                  [
+                     "places", 
+                     103.7, 
+                     104.05
+                  ], 
+                  [
+                     "cela", 
+                     104.05, 
+                     104.36
+                  ], 
+                  [
+                     "makinen", 
+                     104.36, 
+                     104.99
+                  ], 
+                  [
+                     "sainz", 
+                     105.35, 
+                     105.54
+                  ], 
+                  [
+                     "et", 
+                     105.54, 
+                     105.75
+                  ], 
+                  [
+                     "cinq", 
+                     105.75, 
+                     106.17
+                  ], 
+                  [
+                     "cents", 
+                     106.17, 
+                     106.6
+                  ], 
+                  [
+                     "billets", 
+                     106.6, 
+                     106.96
+                  ], 
+                  [
+                     "vendus", 
+                     107.44, 
+                     107.72
+                  ], 
+                  [
+                     "et", 
+                     107.72, 
+                     107.91
+                  ], 
+                  [
+                     "tout", 
+                     107.91, 
+                     108.08
+                  ], 
+                  [
+                     "ça", 
+                     108.08, 
+                     108.28
+                  ], 
+                  [
+                     "c'est", 
+                     108.28, 
+                     108.47
+                  ], 
+                  [
+                     "des", 
+                     108.47, 
+                     109.09
+                  ], 
+                  [
+                     "arches", 
+                     109.32, 
+                     109.87
+                  ], 
+                  [
+                     "ceux", 
+                     110.23, 
+                     110.52
+                  ], 
+                  [
+                     "qui", 
+                     110.52, 
+                     110.89
+                  ], 
+                  [
+                     "placent", 
+                     110.98, 
+                     111.32
+                  ], 
+                  [
+                     "la", 
+                     111.35, 
+                     111.51
+                  ], 
+                  [
+                     "vingtaine", 
+                     111.51, 
+                     112.15
+                  ], 
+                  [
+                     "voire", 
+                     112.45, 
+                     112.62
+                  ], 
+                  [
+                     "plus", 
+                     112.62, 
+                     112.81
+                  ], 
+                  [
+                     "si", 
+                     112.81, 
+                     112.96
+                  ], 
+                  [
+                     "on", 
+                     112.96, 
+                     113.19
+                  ], 
+                  [
+                     "le", 
+                     113.19, 
+                     113.28
+                  ], 
+                  [
+                     "sait", 
+                     113.28, 
+                     113.47
+                  ], 
+                  [
+                     "une", 
+                     113.47, 
+                     113.61
+                  ], 
+                  [
+                     "des", 
+                     113.61, 
+                     114.16
+                  ], 
+                  [
+                     "pommes", 
+                     114.35, 
+                     114.54
+                  ], 
+                  [
+                     "de", 
+                     114.54, 
+                     114.57
+                  ], 
+                  [
+                     "terre", 
+                     114.57, 
+                     114.81
+                  ], 
+                  [
+                     "et", 
+                     114.81, 
+                     114.97
+                  ], 
+                  [
+                     "même", 
+                     114.97, 
+                     115.17
+                  ], 
+                  [
+                     "si", 
+                     115.34, 
+                     115.52
+                  ], 
+                  [
+                     "le", 
+                     115.52, 
+                     115.72
+                  ], 
+                  [
+                     "cyclisme", 
+                     115.72, 
+                     116.58
+                  ], 
+                  [
+                     "indexer", 
+                     116.85, 
+                     117.42
+                  ], 
+                  [
+                     "ce", 
+                     117.42, 
+                     117.56
+                  ], 
+                  [
+                     "n'est", 
+                     117.56, 
+                     118.01
+                  ], 
+                  [
+                     "que", 
+                     118.01, 
+                     118.41
+                  ], 
+                  [
+                     "vers", 
+                     118.41, 
+                     118.83
+                  ], 
+                  [
+                     "un", 
+                     118.83, 
+                     119.17
+                  ], 
+                  [
+                     "système", 
+                     119.17, 
+                     119.64
+                  ], 
+                  [
+                     "plus", 
+                     119.64, 
+                     120.17
+                  ], 
+                  [
+                     "simple", 
+                     120.57, 
+                     120.82
+                  ], 
+                  [
+                     "et", 
+                     120.82, 
+                     120.96
+                  ], 
+                  [
+                     "le", 
+                     120.96, 
+                     121.18
+                  ], 
+                  [
+                     "plus", 
+                     121.18, 
+                     121.38
+                  ], 
+                  [
+                     "triste", 
+                     121.38, 
+                     121.62
+                  ], 
+                  [
+                     "est", 
+                     121.62, 
+                     122.02
+                  ], 
+                  [
+                     "inspectrice", 
+                     122.02, 
+                     122.68
+                  ], 
+                  [
+                     "des", 
+                     122.77, 
+                     122.93
+                  ], 
+                  [
+                     "scènes", 
+                     122.93, 
+                     123.25
+                  ], 
+                  [
+                     "de", 
+                     123.25, 
+                     123.3
+                  ]
+               ], 
+               "confidence": 0.59, 
+               "transcript": "ah t v vers leurs missiles trentesix ces places cela makinen sainz et cinq cents billets vendus et tout ça c'est des arches ceux qui placent la vingtaine voire plus si on le sait une des pommes de terre et même si le cyclisme indexer ce n'est que vers un système plus simple et le plus triste est inspectrice des scènes de "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "dire", 
+                     123.99, 
+                     124.18
+                  ], 
+                  [
+                     "que", 
+                     124.18, 
+                     124.28
+                  ], 
+                  [
+                     "l'on", 
+                     124.28, 
+                     124.43
+                  ], 
+                  [
+                     "se", 
+                     124.43, 
+                     124.6
+                  ], 
+                  [
+                     "sent", 
+                     124.6, 
+                     124.8
+                  ], 
+                  [
+                     "leur", 
+                     124.8, 
+                     125.16
+                  ], 
+                  [
+                     "intestin", 
+                     125.39, 
+                     125.89
+                  ], 
+                  [
+                     "lui", 
+                     125.89, 
+                     126.33
+                  ], 
+                  [
+                     "casqués", 
+                     126.33, 
+                     126.95
+                  ], 
+                  [
+                     "sont", 
+                     127.07, 
+                     127.24
+                  ], 
+                  [
+                     "risquées", 
+                     127.24, 
+                     127.79
+                  ], 
+                  [
+                     "en", 
+                     127.79, 
+                     127.87
+                  ], 
+                  [
+                     "faisant", 
+                     127.87, 
+                     128.27
+                  ], 
+                  [
+                     "avec", 
+                     128.27, 
+                     128.89
+                  ], 
+                  [
+                     "ric", 
+                     128.89, 
+                     129.17
+                  ], 
+                  [
+                     "there", 
+                     129.57, 
+                     129.77
+                  ], 
+                  [
+                     "citant", 
+                     129.77, 
+                     130.09
+                  ], 
+                  [
+                     "une", 
+                     130.09, 
+                     130.24
+                  ], 
+                  [
+                     "persistance", 
+                     130.24, 
+                     130.93
+                  ]
+               ], 
+               "confidence": 0.51, 
+               "transcript": "dire que l'on se sent leur intestin lui casqués sont risquées en faisant avec ric there citant une persistance "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "le", 
+                     131.05, 
+                     131.27
+                  ], 
+                  [
+                     "tout", 
+                     131.27, 
+                     131.42
+                  ], 
+                  [
+                     "sans", 
+                     131.42, 
+                     132.05
+                  ], 
+                  [
+                     "faire", 
+                     132.18, 
+                     132.32
+                  ], 
+                  [
+                     "sans", 
+                     132.32, 
+                     132.75
+                  ]
+               ], 
+               "confidence": 0.76, 
+               "transcript": "le tout sans faire sans "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "l'uci", 
+                     140.3, 
+                     140.84
+                  ], 
+                  [
+                     "fauchon", 
+                     140.84, 
+                     141.37
+                  ]
+               ], 
+               "confidence": 0.18, 
+               "transcript": "l'uci fauchon "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "nous", 
+                     141.9, 
+                     142.19
+                  ], 
+                  [
+                     "accueillons", 
+                     142.19, 
+                     142.59
+                  ], 
+                  [
+                     "dans", 
+                     142.59, 
+                     142.75
+                  ], 
+                  [
+                     "notre", 
+                     142.75, 
+                     143
+                  ], 
+                  [
+                     "espace", 
+                     143, 
+                     143.31
+                  ], 
+                  [
+                     "d'invitation", 
+                     143.31, 
+                     144.13
+                  ], 
+                  [
+                     "aux", 
+                     144.36, 
+                     144.57
+                  ], 
+                  [
+                     "investisseurs", 
+                     144.57, 
+                     145.05
+                  ], 
+                  [
+                     "place", 
+                     145.05, 
+                     145.32
+                  ], 
+                  [
+                     "de", 
+                     145.32, 
+                     145.43
+                  ], 
+                  [
+                     "la", 
+                     145.43, 
+                     145.53
+                  ], 
+                  [
+                     "madeleine", 
+                     145.53, 
+                     145.93
+                  ], 
+                  [
+                     "et", 
+                     145.93, 
+                     146.04
+                  ], 
+                  [
+                     "du", 
+                     146.26, 
+                     146.45
+                  ], 
+                  [
+                     "lundi", 
+                     146.45, 
+                     146.91
+                  ], 
+                  [
+                     "au", 
+                     147.09, 
+                     147.21
+                  ], 
+                  [
+                     "samedi", 
+                     147.21, 
+                     147.74
+                  ], 
+                  [
+                     "de", 
+                     147.98, 
+                     148.1
+                  ], 
+                  [
+                     "viltain", 
+                     148.1, 
+                     148.53
+                  ], 
+                  [
+                     "kinzer", 
+                     148.53, 
+                     149.16
+                  ], 
+                  [
+                     "ainsi", 
+                     149.47, 
+                     149.73
+                  ], 
+                  [
+                     "que", 
+                     149.73, 
+                     149.89
+                  ], 
+                  [
+                     "dans", 
+                     149.89, 
+                     150.01
+                  ], 
+                  [
+                     "notre", 
+                     150.01, 
+                     150.26
+                  ], 
+                  [
+                     "boutique", 
+                     150.26, 
+                     150.6
+                  ], 
+                  [
+                     "autre", 
+                     150.93, 
+                     151.16
+                  ], 
+                  [
+                     "place", 
+                     151.49, 
+                     151.72
+                  ], 
+                  [
+                     "de", 
+                     151.72, 
+                     151.81
+                  ], 
+                  [
+                     "la", 
+                     151.81, 
+                     151.92
+                  ], 
+                  [
+                     "madeleine", 
+                     151.92, 
+                     152.43
+                  ], 
+                  [
+                     "de", 
+                     152.65, 
+                     152.8
+                  ], 
+                  [
+                     "disgrâce", 
+                     152.8, 
+                     153.28
+                  ], 
+                  [
+                     "importera", 
+                     153.28, 
+                     153.76
+                  ], 
+                  [
+                     "exceptionnellement", 
+                     154.45, 
+                     155.24
+                  ], 
+                  [
+                     "dimanche", 
+                     155.24, 
+                     155.83
+                  ], 
+                  [
+                     "un", 
+                     155.95, 
+                     156.09
+                  ], 
+                  [
+                     "train", 
+                     156.09, 
+                     156.36
+                  ], 
+                  [
+                     "tout", 
+                     156.36, 
+                     156.52
+                  ], 
+                  [
+                     "en", 
+                     156.52, 
+                     156.61
+                  ], 
+                  [
+                     "décembre", 
+                     156.61, 
+                     157.01
+                  ]
+               ], 
+               "confidence": 0.64, 
+               "transcript": "nous accueillons dans notre espace d'invitation aux investisseurs place de la madeleine et du lundi au samedi de viltain kinzer ainsi que dans notre boutique autre place de la madeleine de disgrâce importera exceptionnellement dimanche un train tout en décembre "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "de", 
+                     157.33, 
+                     157.47
+                  ], 
+                  [
+                     "dire", 
+                     157.65, 
+                     157.9
+                  ], 
+                  [
+                     "si", 
+                     157.9, 
+                     158.05
+                  ], 
+                  [
+                     "une", 
+                     158.05, 
+                     158.36
+                  ]
+               ], 
+               "confidence": 0.54, 
+               "transcript": "de dire si une "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "vivent", 
+                     159.23, 
+                     159.45
+                  ], 
+                  [
+                     "également", 
+                     159.45, 
+                     159.84
+                  ], 
+                  [
+                     "des", 
+                     159.84, 
+                     159.94
+                  ]
+               ], 
+               "confidence": 0.72, 
+               "transcript": "vivent également des "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "quelles", 
+                     161.37, 
+                     161.56
+                  ], 
+                  [
+                     "sont", 
+                     161.56, 
+                     161.75
+                  ], 
+                  [
+                     "les", 
+                     161.95, 
+                     162.07
+                  ], 
+                  [
+                     "offres", 
+                     162.14, 
+                     162.42
+                  ], 
+                  [
+                     "de", 
+                     162.42, 
+                     162.5
+                  ], 
+                  [
+                     "pâtisseries", 
+                     162.5, 
+                     163.11
+                  ], 
+                  [
+                     "sur", 
+                     163.11, 
+                     163.28
+                  ], 
+                  [
+                     "notre", 
+                     163.28, 
+                     163.5
+                  ], 
+                  [
+                     "site", 
+                     163.5, 
+                     163.77
+                  ], 
+                  [
+                     "web", 
+                     163.77, 
+                     164.07
+                  ], 
+                  [
+                     "double", 
+                     164.7, 
+                     164.92
+                  ], 
+                  [
+                     "v", 
+                     164.92, 
+                     165.05
+                  ], 
+                  [
+                     "double", 
+                     165.05, 
+                     165.3
+                  ], 
+                  [
+                     "v", 
+                     165.3, 
+                     165.55
+                  ], 
+                  [
+                     "point", 
+                     165.79, 
+                     166.04
+                  ], 
+                  [
+                     "fauchon", 
+                     166.12, 
+                     166.67
+                  ]
+               ], 
+               "confidence": 0.74, 
+               "transcript": "quelles sont les offres de pâtisseries sur notre site web double v double v point fauchon "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "si", 
+                     168.05, 
+                     168.27
+                  ], 
+                  [
+                     "oui", 
+                     168.49, 
+                     168.71
+                  ], 
+                  [
+                     "il", 
+                     168.95, 
+                     169.11
+                  ], 
+                  [
+                     "faut", 
+                     169.11, 
+                     169.33
+                  ], 
+                  [
+                     "changer", 
+                     169.33, 
+                     169.72
+                  ]
+               ], 
+               "confidence": 0.56, 
+               "transcript": "si oui il faut changer "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "at", 
+                     170.27, 
+                     170.63
+                  ], 
+                  [
+                     "v", 
+                     170.63, 
+                     171.1
+                  ], 
+                  [
+                     "rien", 
+                     171.1, 
+                     171.33
+                  ], 
+                  [
+                     "voir", 
+                     171.33, 
+                     171.56
+                  ], 
+                  [
+                     "réussir", 
+                     171.56, 
+                     172.12
+                  ], 
+                  [
+                     "ce", 
+                     172.12, 
+                     172.53
+                  ], 
+                  [
+                     "petit", 
+                     172.53, 
+                     172.77
+                  ], 
+                  [
+                     "ces", 
+                     172.77, 
+                     173.29
+                  ], 
+                  [
+                     "places", 
+                     173.32, 
+                     173.67
+                  ], 
+                  [
+                     "cela", 
+                     173.67, 
+                     173.97
+                  ], 
+                  [
+                     "manninen", 
+                     173.97, 
+                     174.61
+                  ], 
+                  [
+                     "fin", 
+                     174.96, 
+                     175.16
+                  ], 
+                  [
+                     "est", 
+                     175.19, 
+                     175.4
+                  ], 
+                  [
+                     "l'un", 
+                     175.4, 
+                     175.68
+                  ], 
+                  [
+                     "des", 
+                     175.68, 
+                     175.85
+                  ], 
+                  [
+                     "seuls", 
+                     175.85, 
+                     176.21
+                  ], 
+                  [
+                     "pays", 
+                     176.21, 
+                     176.44
+                  ], 
+                  [
+                     "aine", 
+                     176.44, 
+                     176.76
+                  ], 
+                  [
+                     "t", 
+                     177.06, 
+                     177.72
+                  ], 
+                  [
+                     "v", 
+                     177.72, 
+                     177.9
+                  ], 
+                  [
+                     "cités", 
+                     177.9, 
+                     178.71
+                  ], 
+                  [
+                     "en", 
+                     178.93, 
+                     179.09
+                  ], 
+                  [
+                     "short", 
+                     179.09, 
+                     179.58
+                  ], 
+                  [
+                     "ceux", 
+                     179.84, 
+                     180.14
+                  ], 
+                  [
+                     "ci", 
+                     180.14, 
+                     180.51
+                  ], 
+                  [
+                     "place", 
+                     180.59, 
+                     180.87
+                  ], 
+                  [
+                     "de", 
+                     180.87, 
+                     180.99
+                  ], 
+                  [
+                     "la", 
+                     180.99, 
+                     181.13
+                  ], 
+                  [
+                     "madeleine", 
+                     181.13, 
+                     181.77
+                  ], 
+                  [
+                     "voire", 
+                     182.05, 
+                     182.23
+                  ], 
+                  [
+                     "plus", 
+                     182.23, 
+                     182.59
+                  ], 
+                  [
+                     "ont", 
+                     182.59, 
+                     182.65
+                  ], 
+                  [
+                     "en", 
+                     182.65, 
+                     182.84
+                  ], 
+                  [
+                     "effet", 
+                     182.84, 
+                     183.08
+                  ], 
+                  [
+                     "une", 
+                     183.08, 
+                     183.24
+                  ], 
+                  [
+                     "des", 
+                     183.24, 
+                     183.78
+                  ], 
+                  [
+                     "pommes", 
+                     183.97, 
+                     184.18
+                  ], 
+                  [
+                     "de", 
+                     184.18, 
+                     184.21
+                  ], 
+                  [
+                     "terre", 
+                     184.21, 
+                     184.39
+                  ], 
+                  [
+                     "les", 
+                     184.39, 
+                     184.54
+                  ], 
+                  [
+                     "âmes", 
+                     184.54, 
+                     184.98
+                  ], 
+                  [
+                     "et", 
+                     184.98, 
+                     185.11
+                  ], 
+                  [
+                     "de", 
+                     185.11, 
+                     185.35
+                  ], 
+                  [
+                     "supplier", 
+                     185.35, 
+                     185.95
+                  ], 
+                  [
+                     "indexer", 
+                     186.47, 
+                     187.02
+                  ], 
+                  [
+                     "n'est", 
+                     187.19, 
+                     187.63
+                  ], 
+                  [
+                     "que", 
+                     187.63, 
+                     188.03
+                  ], 
+                  [
+                     "le", 
+                     188.03, 
+                     188.16
+                  ], 
+                  [
+                     "même", 
+                     188.16, 
+                     188.32
+                  ], 
+                  [
+                     "phénomène", 
+                     188.32, 
+                     188.81
+                  ], 
+                  [
+                     "se", 
+                     188.93, 
+                     189.04
+                  ], 
+                  [
+                     "faire", 
+                     189.04, 
+                     189.21
+                  ], 
+                  [
+                     "oublier", 
+                     189.21, 
+                     189.73
+                  ], 
+                  [
+                     "ça", 
+                     190.18, 
+                     190.36
+                  ], 
+                  [
+                     "et", 
+                     190.4, 
+                     190.6
+                  ], 
+                  [
+                     "que", 
+                     190.6, 
+                     190.75
+                  ], 
+                  [
+                     "tu", 
+                     190.75, 
+                     190.91
+                  ], 
+                  [
+                     "peux", 
+                     191.18, 
+                     191.53
+                  ], 
+                  [
+                     "pas", 
+                     191.53, 
+                     191.77
+                  ], 
+                  [
+                     "l'été", 
+                     191.77, 
+                     192.13
+                  ], 
+                  [
+                     "c'est", 
+                     192.13, 
+                     192.49
+                  ], 
+                  [
+                     "sans", 
+                     192.53, 
+                     192.86
+                  ], 
+                  [
+                     "doute", 
+                     192.86, 
+                     192.97
+                  ]
+               ], 
+               "confidence": 0.61, 
+               "transcript": "at v rien voir réussir ce petit ces places cela manninen fin est l'un des seuls pays aine t v cités en short ceux ci place de la madeleine voire plus ont en effet une des pommes de terre les âmes et de supplier indexer n'est que le même phénomène se faire oublier ça et que tu peux pas l'été c'est sans doute "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "dire", 
+                     193.61, 
+                     193.81
+                  ], 
+                  [
+                     "que", 
+                     193.81, 
+                     193.89
+                  ], 
+                  [
+                     "l'on", 
+                     193.89, 
+                     194.04
+                  ], 
+                  [
+                     "se", 
+                     194.04, 
+                     194.21
+                  ], 
+                  [
+                     "sent", 
+                     194.21, 
+                     194.41
+                  ], 
+                  [
+                     "leur", 
+                     194.41, 
+                     194.77
+                  ], 
+                  [
+                     "en", 
+                     195, 
+                     195.16
+                  ], 
+                  [
+                     "téflon", 
+                     195.16, 
+                     195.96
+                  ], 
+                  [
+                     "casqués", 
+                     195.96, 
+                     196.4
+                  ], 
+                  [
+                     "se", 
+                     196.4, 
+                     196.52
+                  ], 
+                  [
+                     "sont", 
+                     196.67, 
+                     196.88
+                  ], 
+                  [
+                     "risqués", 
+                     196.88, 
+                     197.34
+                  ], 
+                  [
+                     "sont", 
+                     197.34, 
+                     197.49
+                  ], 
+                  [
+                     "faites", 
+                     197.49, 
+                     197.74
+                  ], 
+                  [
+                     "dans", 
+                     197.74, 
+                     198.17
+                  ], 
+                  [
+                     "ce", 
+                     198.24, 
+                     198.4
+                  ], 
+                  [
+                     "sens", 
+                     198.4, 
+                     198.63
+                  ], 
+                  [
+                     "et", 
+                     198.63, 
+                     198.84
+                  ], 
+                  [
+                     "que", 
+                     199.2, 
+                     199.34
+                  ], 
+                  [
+                     "les", 
+                     199.34, 
+                     199.54
+                  ], 
+                  [
+                     "services", 
+                     199.54, 
+                     199.86
+                  ], 
+                  [
+                     "d'assistance", 
+                     199.86, 
+                     200.39
+                  ], 
+                  [
+                     "aux", 
+                     200.39, 
+                     200.58
+                  ], 
+                  [
+                     "souches", 
+                     200.72, 
+                     201.68
+                  ], 
+                  [
+                     "récents", 
+                     201.79, 
+                     202.38
+                  ]
+               ], 
+               "confidence": 0.53, 
+               "transcript": "dire que l'on se sent leur en téflon casqués se sont risqués sont faites dans ce sens et que les services d'assistance aux souches récents "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "nice", 
+                     209.93, 
+                     210.45
+                  ], 
+                  [
+                     "sochaux", 
+                     210.5, 
+                     211.05
+                  ]
+               ], 
+               "confidence": 0.08, 
+               "transcript": "nice sochaux "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "ils", 
+                     211.52, 
+                     211.81
+                  ], 
+                  [
+                     "accueilleront", 
+                     211.81, 
+                     212.3
+                  ], 
+                  [
+                     "en", 
+                     212.3, 
+                     212.48
+                  ], 
+                  [
+                     "plus", 
+                     212.48, 
+                     212.76
+                  ], 
+                  [
+                     "d'un", 
+                     212.76, 
+                     212.92
+                  ], 
+                  [
+                     "prix", 
+                     212.92, 
+                     213.29
+                  ], 
+                  [
+                     "sanctions", 
+                     213.29, 
+                     213.75
+                  ]
+               ], 
+               "confidence": 0.28, 
+               "transcript": "ils accueilleront en plus d'un prix sanctions "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "aux", 
+                     213.98, 
+                     214.44
+                  ], 
+                  [
+                     "autres", 
+                     214.44, 
+                     214.66
+                  ], 
+                  [
+                     "places", 
+                     214.66, 
+                     214.93
+                  ], 
+                  [
+                     "de", 
+                     214.93, 
+                     215.04
+                  ], 
+                  [
+                     "la", 
+                     215.04, 
+                     215.17
+                  ], 
+                  [
+                     "classe-a", 
+                     215.76, 
+                     216.17
+                  ], 
+                  [
+                     "passant", 
+                     216.17, 
+                     216.51
+                  ], 
+                  [
+                     "et", 
+                     216.51, 
+                     216.54
+                  ], 
+                  [
+                     "l'argent", 
+                     216.54, 
+                     216.85
+                  ], 
+                  [
+                     "n'arrive", 
+                     216.85, 
+                     217.07
+                  ], 
+                  [
+                     "pas", 
+                     217.07, 
+                     217.19
+                  ], 
+                  [
+                     "je", 
+                     217.19, 
+                     217.29
+                  ], 
+                  [
+                     "ne", 
+                     217.29, 
+                     217.38
+                  ], 
+                  [
+                     "la", 
+                     217.38, 
+                     217.46
+                  ], 
+                  [
+                     "connais", 
+                     217.46, 
+                     217.67
+                  ], 
+                  [
+                     "jules", 
+                     217.67, 
+                     218.02
+                  ], 
+                  [
+                     "sa", 
+                     218.02, 
+                     218.24
+                  ], 
+                  [
+                     "messages", 
+                     218.24, 
+                     218.55
+                  ], 
+                  [
+                     "sans", 
+                     218.55, 
+                     218.65
+                  ], 
+                  [
+                     "que", 
+                     218.65, 
+                     218.78
+                  ], 
+                  [
+                     "puisse", 
+                     218.78, 
+                     219.02
+                  ], 
+                  [
+                     "à", 
+                     219.02, 
+                     219.11
+                  ], 
+                  [
+                     "la", 
+                     219.11, 
+                     219.22
+                  ], 
+                  [
+                     "recherche", 
+                     219.22, 
+                     219.63
+                  ], 
+                  [
+                     "pas", 
+                     219.63, 
+                     220.05
+                  ], 
+                  [
+                     "ca", 
+                     220.18, 
+                     220.94
+                  ], 
+                  [
+                     "vous", 
+                     221.03, 
+                     221.23
+                  ], 
+                  [
+                     "rappeler", 
+                     221.23, 
+                     221.56
+                  ], 
+                  [
+                     "que", 
+                     221.7, 
+                     222.06
+                  ]
+               ], 
+               "confidence": 0.52, 
+               "transcript": "aux autres places de la classe-a passant et l'argent n'arrive pas je ne la connais jules sa messages sans que puisse à la recherche pas ca vous rappeler que "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "quel", 
+                     223.33, 
+                     223.48
+                  ], 
+                  [
+                     "est", 
+                     223.48, 
+                     223.51
+                  ], 
+                  [
+                     "votre", 
+                     223.51, 
+                     223.78
+                  ], 
+                  [
+                     "nom", 
+                     223.78, 
+                     224.07
+                  ]
+               ], 
+               "confidence": 0.97, 
+               "transcript": "quel est votre nom "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "a", 
+                     228.11, 
+                     228.23
+                  ], 
+                  [
+                     "je", 
+                     228.23, 
+                     228.36
+                  ], 
+                  [
+                     "ne", 
+                     228.36, 
+                     228.4
+                  ], 
+                  [
+                     "sais", 
+                     228.4, 
+                     228.52
+                  ], 
+                  [
+                     "pas", 
+                     228.52, 
+                     228.65
+                  ], 
+                  [
+                     "je", 
+                     228.65, 
+                     228.83
+                  ], 
+                  [
+                     "laisse", 
+                     228.83, 
+                     229.04
+                  ], 
+                  [
+                     "le", 
+                     229.04, 
+                     229.15
+                  ], 
+                  [
+                     "message", 
+                     229.15, 
+                     229.52
+                  ], 
+                  [
+                     "à", 
+                     229.52, 
+                     229.57
+                  ], 
+                  [
+                     "ma", 
+                     229.57, 
+                     229.67
+                  ], 
+                  [
+                     "collègue", 
+                     229.67, 
+                     229.93
+                  ], 
+                  [
+                     "après", 
+                     229.93, 
+                     230.51
+                  ], 
+                  [
+                     "c'est", 
+                     230.54, 
+                     230.79
+                  ], 
+                  [
+                     "un", 
+                     230.79, 
+                     230.84
+                  ], 
+                  [
+                     "super", 
+                     230.84, 
+                     231.38
+                  ], 
+                  [
+                     "super", 
+                     231.49, 
+                     231.86
+                  ], 
+                  [
+                     "à", 
+                     233.67, 
+                     233.96
+                  ], 
+                  [
+                     "aile", 
+                     233.99, 
+                     234.19
+                  ], 
+                  [
+                     "s", 
+                     234.19, 
+                     234.34
+                  ], 
+                  [
+                     "i", 
+                     234.34, 
+                     234.67
+                  ], 
+                  [
+                     "et", 
+                     234.67, 
+                     234.79
+                  ], 
+                  [
+                     "après-midi", 
+                     234.79, 
+                     235.23
+                  ], 
+                  [
+                     "oui", 
+                     235.23, 
+                     235.42
+                  ], 
+                  [
+                     "quelle", 
+                     235.42, 
+                     235.6
+                  ], 
+                  [
+                     "heure", 
+                     235.6, 
+                     235.76
+                  ], 
+                  [
+                     "houilles", 
+                     235.76, 
+                     236.06
+                  ], 
+                  [
+                     "un", 
+                     236.06, 
+                     236.2
+                  ], 
+                  [
+                     "possible", 
+                     236.29, 
+                     236.74
+                  ]
+               ], 
+               "confidence": 0.61, 
+               "transcript": "a je ne sais pas je laisse le message à ma collègue après c'est un super super à aile s i et après-midi oui quelle heure houilles un possible "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "alliance", 
+                     239.78, 
+                     240.19
+                  ], 
+                  [
+                     "rappelle", 
+                     240.92, 
+                     241.35
+                  ], 
+                  [
+                     "même", 
+                     242.16, 
+                     242.57
+                  ], 
+                  [
+                     "fait", 
+                     242.57, 
+                     242.92
+                  ], 
+                  [
+                     "faire", 
+                     243.52, 
+                     243.89
+                  ], 
+                  [
+                     "ailleurs", 
+                     243.89, 
+                     244.21
+                  ], 
+                  [
+                     "oui", 
+                     244.67, 
+                     244.95
+                  ]
+               ], 
+               "confidence": 0.55, 
+               "transcript": "alliance rappelle même fait faire ailleurs oui "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "les", 
+                     246.3, 
+                     246.64
+                  ], 
+                  [
+                     "syndicats", 
+                     246.67, 
+                     247.25
+                  ], 
+                  [
+                     "enseignants", 
+                     247.36, 
+                     247.75
+                  ], 
+                  [
+                     "qui", 
+                     247.75, 
+                     247.9
+                  ], 
+                  [
+                     "veulent", 
+                     247.9, 
+                     248.14
+                  ], 
+                  [
+                     "des", 
+                     248.14, 
+                     248.21
+                  ], 
+                  [
+                     "fonds", 
+                     248.21, 
+                     248.49
+                  ], 
+                  [
+                     "en", 
+                     248.49, 
+                     248.54
+                  ], 
+                  [
+                     "vendant", 
+                     248.54, 
+                     248.82
+                  ], 
+                  [
+                     "son", 
+                     248.82, 
+                     249.04
+                  ], 
+                  [
+                     "truc", 
+                     249.04, 
+                     249.43
+                  ], 
+                  [
+                     "avec", 
+                     249.75, 
+                     249.97
+                  ], 
+                  [
+                     "vous", 
+                     249.97, 
+                     250.13
+                  ], 
+                  [
+                     "avez", 
+                     250.13, 
+                     250.31
+                  ], 
+                  [
+                     "au", 
+                     250.31, 
+                     250.5
+                  ], 
+                  [
+                     "zéro", 
+                     250.5, 
+                     250.73
+                  ], 
+                  [
+                     "six", 
+                     250.73, 
+                     251.38
+                  ], 
+                  [
+                     "oui", 
+                     251.63, 
+                     251.85
+                  ], 
+                  [
+                     "aux", 
+                     251.85, 
+                     251.98
+                  ], 
+                  [
+                     "seize", 
+                     251.98, 
+                     252.43
+                  ], 
+                  [
+                     "oui", 
+                     252.47, 
+                     252.73
+                  ]
+               ], 
+               "confidence": 0.6, 
+               "transcript": "les syndicats enseignants qui veulent des fonds en vendant son truc avec vous avez au zéro six oui aux seize oui "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "trente-six", 
+                     254.24, 
+                     255.12
+                  ], 
+                  [
+                     "oui", 
+                     255.24, 
+                     255.56
+                  ]
+               ], 
+               "confidence": 0.8, 
+               "transcript": "trente-six oui "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "soixante-deux", 
+                     256.06, 
+                     257.19
+                  ], 
+                  [
+                     "oui", 
+                     257.22, 
+                     257.48
+                  ]
+               ], 
+               "confidence": 0.87, 
+               "transcript": "soixante-deux oui "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "quarante", 
+                     258.19, 
+                     258.53
+                  ], 
+                  [
+                     "cent", 
+                     258.53, 
+                     259.1
+                  ], 
+                  [
+                     "quarante-sept", 
+                     259.33, 
+                     260.17
+                  ], 
+                  [
+                     "et", 
+                     260.17, 
+                     260.22
+                  ], 
+                  [
+                     "j'ai", 
+                     260.22, 
+                     260.41
+                  ], 
+                  [
+                     "reprendre", 
+                     260.41, 
+                     261.03
+                  ], 
+                  [
+                     "l'âge", 
+                     261.06, 
+                     261.76
+                  ], 
+                  [
+                     "le", 
+                     261.76, 
+                     261.89
+                  ], 
+                  [
+                     "nom", 
+                     261.89, 
+                     262.2
+                  ], 
+                  [
+                     "de", 
+                     262.2, 
+                     262.31
+                  ], 
+                  [
+                     "votre", 
+                     262.31, 
+                     262.55
+                  ], 
+                  [
+                     "société", 
+                     262.55, 
+                     263.04
+                  ]
+               ], 
+               "confidence": 0.76, 
+               "transcript": "quarante cent quarante-sept et j'ai reprendre l'âge le nom de votre société "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "santa", 
+                     264.02, 
+                     264.65
+                  ], 
+                  [
+                     "ff", 
+                     264.72, 
+                     265.1
+                  ], 
+                  [
+                     "comme", 
+                     265.36, 
+                     265.53
+                  ], 
+                  [
+                     "françois", 
+                     265.53, 
+                     266.04
+                  ], 
+                  [
+                     "o", 
+                     266.13, 
+                     266.35
+                  ], 
+                  [
+                     "aine", 
+                     266.35, 
+                     266.72
+                  ], 
+                  [
+                     "t", 
+                     266.87, 
+                     267.1
+                  ], 
+                  [
+                     "a", 
+                     267.13, 
+                     267.32
+                  ], 
+                  [
+                     "versés", 
+                     268.13, 
+                     269.08
+                  ], 
+                  [
+                     "à", 
+                     269.19, 
+                     269.3
+                  ], 
+                  [
+                     "tout", 
+                     269.3, 
+                     269.59
+                  ], 
+                  [
+                     "instant", 
+                     269.59, 
+                     269.8
+                  ], 
+                  [
+                     "tout", 
+                     269.87, 
+                     270.04
+                  ], 
+                  [
+                     "nous", 
+                     270.04, 
+                     270.41
+                  ], 
+                  [
+                     "laisse", 
+                     270.57, 
+                     271.16
+                  ], 
+                  [
+                     "tranquilles", 
+                     271.25, 
+                     272.09
+                  ], 
+                  [
+                     "sans", 
+                     272.12, 
+                     272.45
+                  ], 
+                  [
+                     "présence", 
+                     272.48, 
+                     273.44
+                  ], 
+                  [
+                     "l'écouter", 
+                     273.47, 
+                     273.87
+                  ], 
+                  [
+                     "je", 
+                     273.87, 
+                     274.02
+                  ], 
+                  [
+                     "l'ai", 
+                     274.02, 
+                     274.1
+                  ], 
+                  [
+                     "son", 
+                     274.1, 
+                     274.27
+                  ], 
+                  [
+                     "message", 
+                     274.27, 
+                     274.6
+                  ], 
+                  [
+                     "de", 
+                     274.6, 
+                     274.72
+                  ], 
+                  [
+                     "suite", 
+                     274.72, 
+                     275.05
+                  ], 
+                  [
+                     "puis", 
+                     275.05, 
+                     275.19
+                  ], 
+                  [
+                     "je", 
+                     275.19, 
+                     275.37
+                  ], 
+                  [
+                     "devant", 
+                     275.37, 
+                     275.67
+                  ], 
+                  [
+                     "eux", 
+                     275.67, 
+                     276
+                  ], 
+                  [
+                     "de", 
+                     276, 
+                     276.1
+                  ], 
+                  [
+                     "revenir", 
+                     276.1, 
+                     276.41
+                  ], 
+                  [
+                     "à", 
+                     276.41, 
+                     276.5
+                  ], 
+                  [
+                     "la", 
+                     276.5, 
+                     276.69
+                  ], 
+                  [
+                     "mon", 
+                     276.69, 
+                     276.82
+                  ], 
+                  [
+                     "frère", 
+                     276.82, 
+                     277.08
+                  ]
+               ], 
+               "confidence": 0.64, 
+               "transcript": "santa ff comme françois o aine t a versés à tout instant tout nous laisse tranquilles sans présence l'écouter je l'ai son message de suite puis je devant eux de revenir à la mon frère "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "d'accord", 
+                     277.97, 
+                     278.32
+                  ], 
+                  [
+                     "je", 
+                     278.32, 
+                     278.45
+                  ], 
+                  [
+                     "vous", 
+                     278.45, 
+                     278.53
+                  ], 
+                  [
+                     "remercie", 
+                     278.53, 
+                     278.87
+                  ], 
+                  [
+                     "beaucoup", 
+                     278.87, 
+                     279.12
+                  ], 
+                  [
+                     "je", 
+                     279.28, 
+                     279.54
+                  ], 
+                  [
+                     "vous", 
+                     279.54, 
+                     279.71
+                  ], 
+                  [
+                     "en", 
+                     279.71, 
+                     279.83
+                  ], 
+                  [
+                     "prie", 
+                     279.83, 
+                     280.05
+                  ], 
+                  [
+                     "vingt", 
+                     280.05, 
+                     280.19
+                  ], 
+                  [
+                     "dans", 
+                     280.19, 
+                     280.34
+                  ], 
+                  [
+                     "les", 
+                     280.34, 
+                     280.43
+                  ], 
+                  [
+                     "alpes", 
+                     280.43, 
+                     280.75
+                  ], 
+                  [
+                     "à", 
+                     281.9, 
+                     282.08
+                  ], 
+                  [
+                     "voir", 
+                     282.08, 
+                     282.44
+                  ]
+               ], 
+               "confidence": 0.8, 
+               "transcript": "d'accord je vous remercie beaucoup je vous en prie vingt dans les alpes à voir "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.1, 
+         "to": 0.27, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.27, 
+         "to": 0.56, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.56, 
+         "to": 0.75, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.75, 
+         "to": 1.09, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.92, 
+         "to": 2.32, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 2.32, 
+         "to": 2.64, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 2.64, 
+         "to": 2.94, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 2.94, 
+         "to": 3.19, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 3.19, 
+         "to": 3.89, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 4.39, 
+         "to": 4.72, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 4.72, 
+         "to": 5.04, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 5.04, 
+         "to": 5.2, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 5.2, 
+         "to": 5.47, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 5.91, 
+         "to": 6.05, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 6.05, 
+         "to": 6.25, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 6.25, 
+         "to": 6.53, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 6.53, 
+         "to": 6.85, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 6.85, 
+         "to": 7.0, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 7.0, 
+         "to": 7.64, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 7.97, 
+         "to": 8.06, 
+         "speaker": 1, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 8.06, 
+         "to": 8.2, 
+         "speaker": 1, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 8.2, 
+         "to": 8.48, 
+         "speaker": 1, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 8.48, 
+         "to": 8.65, 
+         "speaker": 1, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 8.65, 
+         "to": 8.76, 
+         "speaker": 1, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 8.76, 
+         "to": 9.09, 
+         "speaker": 1, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 9.12, 
+         "to": 9.21, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 9.21, 
+         "to": 9.32, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 9.32, 
+         "to": 9.7, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 9.7, 
+         "to": 9.91, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 9.91, 
+         "to": 10.44, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 10.44, 
+         "to": 10.47, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 10.47, 
+         "to": 10.63, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 10.63, 
+         "to": 11.24, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 11.39, 
+         "to": 11.79, 
+         "speaker": 1, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 11.79, 
+         "to": 12.11, 
+         "speaker": 1, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 12.11, 
+         "to": 12.41, 
+         "speaker": 1, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 12.47, 
+         "to": 12.69, 
+         "speaker": 1, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 12.69, 
+         "to": 12.81, 
+         "speaker": 1, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 12.81, 
+         "to": 12.95, 
+         "speaker": 1, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 12.95, 
+         "to": 13.09, 
+         "speaker": 1, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 13.09, 
+         "to": 13.48, 
+         "speaker": 1, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 13.52, 
+         "to": 13.69, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 13.69, 
+         "to": 13.89, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 13.89, 
+         "to": 14.17, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 14.17, 
+         "to": 14.26, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 14.26, 
+         "to": 14.6, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 14.6, 
+         "to": 14.73, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 14.73, 
+         "to": 15.29, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 15.32, 
+         "to": 15.44, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 15.44, 
+         "to": 15.76, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 15.76, 
+         "to": 15.96, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 15.96, 
+         "to": 16.0, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 16.0, 
+         "to": 16.2, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 16.2, 
+         "to": 16.25, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 16.25, 
+         "to": 16.75, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 16.95, 
+         "to": 17.24, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 17.24, 
+         "to": 17.43, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 17.46, 
+         "to": 17.62, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 17.62, 
+         "to": 17.69, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 17.69, 
+         "to": 18.04, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 18.04, 
+         "to": 18.48, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 18.48, 
+         "to": 18.61, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 18.61, 
+         "to": 18.68, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 18.68, 
+         "to": 18.97, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 20.56, 
+         "to": 20.76, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 20.76, 
+         "to": 20.92, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 20.95, 
+         "to": 21.16, 
+         "speaker": 1, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 21.19, 
+         "to": 21.33, 
+         "speaker": 1, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 21.33, 
+         "to": 21.49, 
+         "speaker": 1, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 21.49, 
+         "to": 21.72, 
+         "speaker": 1, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 21.72, 
+         "to": 22.04, 
+         "speaker": 1, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 22.07, 
+         "to": 22.92, 
+         "speaker": 0, 
+         "confidence": 0.32, 
+         "final": false
+      }, 
+      {
+         "from": 23.05, 
+         "to": 23.28, 
+         "speaker": 1, 
+         "confidence": 0.3, 
+         "final": false
+      }, 
+      {
+         "from": 23.55, 
+         "to": 23.77, 
+         "speaker": 1, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 23.77, 
+         "to": 24.05, 
+         "speaker": 1, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 24.08, 
+         "to": 24.75, 
+         "speaker": 1, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 24.97, 
+         "to": 25.07, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 25.07, 
+         "to": 25.28, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 26.03, 
+         "to": 26.79, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 26.82, 
+         "to": 27.14, 
+         "speaker": 0, 
+         "confidence": 0.33, 
+         "final": false
+      }, 
+      {
+         "from": 27.71, 
+         "to": 28.11, 
+         "speaker": 1, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 28.11, 
+         "to": 28.66, 
+         "speaker": 1, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 28.69, 
+         "to": 28.81, 
+         "speaker": 0, 
+         "confidence": 0.37, 
+         "final": false
+      }, 
+      {
+         "from": 28.81, 
+         "to": 29.0, 
+         "speaker": 0, 
+         "confidence": 0.37, 
+         "final": false
+      }, 
+      {
+         "from": 29.61, 
+         "to": 30.66, 
+         "speaker": 1, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 30.69, 
+         "to": 31.19, 
+         "speaker": 0, 
+         "confidence": 0.36, 
+         "final": false
+      }, 
+      {
+         "from": 31.69, 
+         "to": 32.19, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 32.19, 
+         "to": 32.23, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 32.23, 
+         "to": 32.43, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 32.74, 
+         "to": 33.09, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 33.68, 
+         "to": 34.3, 
+         "speaker": 0, 
+         "confidence": 0.19, 
+         "final": false
+      }, 
+      {
+         "from": 34.33, 
+         "to": 34.73, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 34.77, 
+         "to": 35.33, 
+         "speaker": 1, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 35.36, 
+         "to": 36.17, 
+         "speaker": 1, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 37.02, 
+         "to": 37.5, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 37.5, 
+         "to": 37.69, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 37.69, 
+         "to": 38.14, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 38.66, 
+         "to": 38.86, 
+         "speaker": 1, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 38.86, 
+         "to": 39.15, 
+         "speaker": 1, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 39.32, 
+         "to": 40.04, 
+         "speaker": 0, 
+         "confidence": 0.28, 
+         "final": false
+      }, 
+      {
+         "from": 40.91, 
+         "to": 41.11, 
+         "speaker": 1, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 41.14, 
+         "to": 41.8, 
+         "speaker": 1, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 41.8, 
+         "to": 42.6, 
+         "speaker": 1, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 42.63, 
+         "to": 43.0, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 43.0, 
+         "to": 43.5, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 43.5, 
+         "to": 43.92, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 43.92, 
+         "to": 44.41, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 44.8, 
+         "to": 45.23, 
+         "speaker": 0, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 45.26, 
+         "to": 45.39, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 45.39, 
+         "to": 45.88, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 45.88, 
+         "to": 46.07, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 46.07, 
+         "to": 46.1, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 46.1, 
+         "to": 46.31, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 46.31, 
+         "to": 46.47, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 46.47, 
+         "to": 47.03, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 47.77, 
+         "to": 47.97, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 47.97, 
+         "to": 48.19, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 48.19, 
+         "to": 48.32, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 48.32, 
+         "to": 48.64, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 48.64, 
+         "to": 49.12, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 49.12, 
+         "to": 49.24, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 49.24, 
+         "to": 49.67, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 49.71, 
+         "to": 49.81, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 49.81, 
+         "to": 50.52, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 50.9, 
+         "to": 51.34, 
+         "speaker": 1, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 51.43, 
+         "to": 51.76, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 51.76, 
+         "to": 51.91, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 51.91, 
+         "to": 52.09, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 52.09, 
+         "to": 52.69, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 52.69, 
+         "to": 53.46, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 53.46, 
+         "to": 53.74, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 53.74, 
+         "to": 53.96, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 53.96, 
+         "to": 54.25, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 54.25, 
+         "to": 54.46, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 55.38, 
+         "to": 55.92, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 56.74, 
+         "to": 57.24, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 57.24, 
+         "to": 57.43, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 57.43, 
+         "to": 57.71, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 57.71, 
+         "to": 57.82, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 57.82, 
+         "to": 58.41, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 59.21, 
+         "to": 59.76, 
+         "speaker": 1, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 59.85, 
+         "to": 60.43, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 60.46, 
+         "to": 60.62, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 60.62, 
+         "to": 60.91, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 60.91, 
+         "to": 61.13, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 61.13, 
+         "to": 61.62, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 61.62, 
+         "to": 62.13, 
+         "speaker": 1, 
+         "confidence": 0.63, 
+         "final": false
+      }, 
+      {
+         "from": 62.16, 
+         "to": 62.55, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 62.55, 
+         "to": 63.12, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 63.58, 
+         "to": 64.2, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 66.5, 
+         "to": 66.84, 
+         "speaker": 0, 
+         "confidence": 0.34, 
+         "final": false
+      }, 
+      {
+         "from": 69.23, 
+         "to": 69.33, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 69.33, 
+         "to": 69.5, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 69.5, 
+         "to": 69.66, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 69.66, 
+         "to": 69.88, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 69.88, 
+         "to": 69.97, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 69.97, 
+         "to": 70.24, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 70.24, 
+         "to": 70.42, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 70.42, 
+         "to": 70.5, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 70.5, 
+         "to": 70.56, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 70.56, 
+         "to": 70.95, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 70.95, 
+         "to": 71.03, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 71.03, 
+         "to": 71.27, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 71.27, 
+         "to": 71.43, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 71.43, 
+         "to": 71.67, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 71.86, 
+         "to": 72.35, 
+         "speaker": 1, 
+         "confidence": 0.3, 
+         "final": false
+      }, 
+      {
+         "from": 74.01, 
+         "to": 74.52, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 74.81, 
+         "to": 75.1, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 75.1, 
+         "to": 75.39, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 75.39, 
+         "to": 75.45, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 75.45, 
+         "to": 75.7, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 75.7, 
+         "to": 75.81, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 75.81, 
+         "to": 75.92, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 75.92, 
+         "to": 76.56, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 76.67, 
+         "to": 76.85, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 76.85, 
+         "to": 77.28, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 77.48, 
+         "to": 77.58, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 77.58, 
+         "to": 78.12, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 78.38, 
+         "to": 78.51, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 78.51, 
+         "to": 78.72, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 78.72, 
+         "to": 78.84, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 78.84, 
+         "to": 78.91, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 78.91, 
+         "to": 79.28, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 79.28, 
+         "to": 79.56, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 79.86, 
+         "to": 80.11, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 80.11, 
+         "to": 80.26, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 80.26, 
+         "to": 80.45, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 80.45, 
+         "to": 80.63, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 80.63, 
+         "to": 80.82, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 80.82, 
+         "to": 81.01, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 81.31, 
+         "to": 81.84, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 81.84, 
+         "to": 82.1, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 82.1, 
+         "to": 82.19, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 82.19, 
+         "to": 82.3, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 82.3, 
+         "to": 82.82, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 83.04, 
+         "to": 83.18, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 83.18, 
+         "to": 83.43, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 83.43, 
+         "to": 83.52, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 83.52, 
+         "to": 83.61, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 83.61, 
+         "to": 83.81, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 83.81, 
+         "to": 83.9, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 83.9, 
+         "to": 84.2, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 84.2, 
+         "to": 84.34, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 84.61, 
+         "to": 84.82, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 84.82, 
+         "to": 85.63, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 85.63, 
+         "to": 86.2, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 86.33, 
+         "to": 86.48, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 86.48, 
+         "to": 86.74, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 86.74, 
+         "to": 86.9, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 86.9, 
+         "to": 86.99, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 86.99, 
+         "to": 87.41, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 87.71, 
+         "to": 87.88, 
+         "speaker": 0, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 88.01, 
+         "to": 88.24, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 88.24, 
+         "to": 88.73, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 89.35, 
+         "to": 89.52, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 89.52, 
+         "to": 89.84, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 89.84, 
+         "to": 90.23, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 90.23, 
+         "to": 90.82, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 90.82, 
+         "to": 91.05, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 91.74, 
+         "to": 92.15, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 92.34, 
+         "to": 92.5, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 92.53, 
+         "to": 92.8, 
+         "speaker": 0, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 92.8, 
+         "to": 92.88, 
+         "speaker": 0, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 92.88, 
+         "to": 93.37, 
+         "speaker": 0, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 93.37, 
+         "to": 93.65, 
+         "speaker": 0, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 93.65, 
+         "to": 93.91, 
+         "speaker": 0, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 93.91, 
+         "to": 94.46, 
+         "speaker": 0, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 94.82, 
+         "to": 96.07, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 96.17, 
+         "to": 96.43, 
+         "speaker": 0, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 96.51, 
+         "to": 97.05, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 98.88, 
+         "to": 99.29, 
+         "speaker": 0, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 99.29, 
+         "to": 99.52, 
+         "speaker": 0, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 99.52, 
+         "to": 100.15, 
+         "speaker": 0, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 100.65, 
+         "to": 100.82, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 100.82, 
+         "to": 101.01, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 101.01, 
+         "to": 101.49, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 101.49, 
+         "to": 101.79, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 101.79, 
+         "to": 102.04, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 102.04, 
+         "to": 102.52, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 102.84, 
+         "to": 103.15, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 103.15, 
+         "to": 103.5, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 103.7, 
+         "to": 104.05, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 104.05, 
+         "to": 104.36, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 104.36, 
+         "to": 104.99, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 105.35, 
+         "to": 105.54, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 105.54, 
+         "to": 105.75, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 105.75, 
+         "to": 106.17, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 106.17, 
+         "to": 106.6, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 106.6, 
+         "to": 106.96, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 107.44, 
+         "to": 107.72, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 107.72, 
+         "to": 107.91, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 107.91, 
+         "to": 108.08, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 108.08, 
+         "to": 108.28, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 108.28, 
+         "to": 108.47, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 108.47, 
+         "to": 109.09, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 109.32, 
+         "to": 109.87, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 110.23, 
+         "to": 110.52, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 110.52, 
+         "to": 110.89, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 110.98, 
+         "to": 111.32, 
+         "speaker": 0, 
+         "confidence": 0.36, 
+         "final": false
+      }, 
+      {
+         "from": 111.35, 
+         "to": 111.51, 
+         "speaker": 0, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 111.51, 
+         "to": 112.15, 
+         "speaker": 0, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 112.45, 
+         "to": 112.62, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 112.62, 
+         "to": 112.81, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 112.81, 
+         "to": 112.96, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 112.96, 
+         "to": 113.19, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 113.19, 
+         "to": 113.28, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 113.28, 
+         "to": 113.47, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 113.47, 
+         "to": 113.61, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 113.61, 
+         "to": 114.16, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 114.35, 
+         "to": 114.54, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 114.54, 
+         "to": 114.57, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 114.57, 
+         "to": 114.81, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 114.81, 
+         "to": 114.97, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 114.97, 
+         "to": 115.17, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 115.34, 
+         "to": 115.52, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 115.52, 
+         "to": 115.72, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 115.72, 
+         "to": 116.58, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 116.85, 
+         "to": 117.42, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 117.42, 
+         "to": 117.56, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 117.56, 
+         "to": 118.01, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 118.01, 
+         "to": 118.41, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 118.41, 
+         "to": 118.83, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 118.83, 
+         "to": 119.17, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 119.17, 
+         "to": 119.64, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 119.64, 
+         "to": 120.17, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 120.57, 
+         "to": 120.82, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 120.82, 
+         "to": 120.96, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 120.96, 
+         "to": 121.18, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 121.18, 
+         "to": 121.38, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 121.38, 
+         "to": 121.62, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 121.62, 
+         "to": 122.02, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 122.02, 
+         "to": 122.68, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 122.77, 
+         "to": 122.93, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 122.93, 
+         "to": 123.25, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 123.25, 
+         "to": 123.3, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 123.99, 
+         "to": 124.18, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 124.18, 
+         "to": 124.28, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 124.28, 
+         "to": 124.43, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 124.43, 
+         "to": 124.6, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 124.6, 
+         "to": 124.8, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 124.8, 
+         "to": 125.16, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 125.39, 
+         "to": 125.89, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 125.89, 
+         "to": 126.33, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 126.33, 
+         "to": 126.95, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 127.07, 
+         "to": 127.24, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 127.24, 
+         "to": 127.79, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 127.79, 
+         "to": 127.87, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 127.87, 
+         "to": 128.27, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 128.27, 
+         "to": 128.89, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 128.89, 
+         "to": 129.17, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 129.57, 
+         "to": 129.77, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 129.77, 
+         "to": 130.09, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 130.09, 
+         "to": 130.24, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 130.24, 
+         "to": 130.93, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 131.05, 
+         "to": 131.27, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 131.27, 
+         "to": 131.42, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 131.42, 
+         "to": 132.05, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 132.18, 
+         "to": 132.32, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 132.32, 
+         "to": 132.75, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 140.3, 
+         "to": 140.84, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 140.84, 
+         "to": 141.37, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 141.9, 
+         "to": 142.19, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 142.19, 
+         "to": 142.59, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 142.59, 
+         "to": 142.75, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 142.75, 
+         "to": 143.0, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 143.0, 
+         "to": 143.31, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 143.31, 
+         "to": 144.13, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 144.36, 
+         "to": 144.57, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 144.57, 
+         "to": 145.05, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 145.05, 
+         "to": 145.32, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 145.32, 
+         "to": 145.43, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 145.43, 
+         "to": 145.53, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 145.53, 
+         "to": 145.93, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 145.93, 
+         "to": 146.04, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 146.26, 
+         "to": 146.45, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 146.45, 
+         "to": 146.91, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 147.09, 
+         "to": 147.21, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 147.21, 
+         "to": 147.74, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 147.98, 
+         "to": 148.1, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 148.1, 
+         "to": 148.53, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 148.53, 
+         "to": 149.16, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 149.47, 
+         "to": 149.73, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 149.73, 
+         "to": 149.89, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 149.89, 
+         "to": 150.01, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 150.01, 
+         "to": 150.26, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 150.26, 
+         "to": 150.6, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 150.93, 
+         "to": 151.16, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 151.49, 
+         "to": 151.72, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 151.72, 
+         "to": 151.81, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 151.81, 
+         "to": 151.92, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 151.92, 
+         "to": 152.43, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 152.65, 
+         "to": 152.8, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 152.8, 
+         "to": 153.28, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 153.28, 
+         "to": 153.76, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 154.45, 
+         "to": 155.24, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 155.24, 
+         "to": 155.83, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 155.95, 
+         "to": 156.09, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 156.09, 
+         "to": 156.36, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 156.36, 
+         "to": 156.52, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 156.52, 
+         "to": 156.61, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 156.61, 
+         "to": 157.01, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 157.33, 
+         "to": 157.47, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 157.65, 
+         "to": 157.9, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 157.9, 
+         "to": 158.05, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 158.05, 
+         "to": 158.36, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 159.23, 
+         "to": 159.45, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 159.45, 
+         "to": 159.84, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 159.84, 
+         "to": 159.94, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 161.37, 
+         "to": 161.56, 
+         "speaker": 0, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 161.56, 
+         "to": 161.75, 
+         "speaker": 0, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 161.95, 
+         "to": 162.07, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 162.14, 
+         "to": 162.42, 
+         "speaker": 0, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 162.42, 
+         "to": 162.5, 
+         "speaker": 0, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 162.5, 
+         "to": 163.11, 
+         "speaker": 0, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 163.11, 
+         "to": 163.28, 
+         "speaker": 0, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 163.28, 
+         "to": 163.5, 
+         "speaker": 0, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 163.5, 
+         "to": 163.77, 
+         "speaker": 0, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 163.77, 
+         "to": 164.07, 
+         "speaker": 0, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 164.7, 
+         "to": 164.92, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 164.92, 
+         "to": 165.05, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 165.05, 
+         "to": 165.3, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 165.3, 
+         "to": 165.55, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 165.79, 
+         "to": 166.04, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 166.12, 
+         "to": 166.67, 
+         "speaker": 0, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 168.05, 
+         "to": 168.27, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 168.49, 
+         "to": 168.71, 
+         "speaker": 0, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 168.95, 
+         "to": 169.11, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 169.11, 
+         "to": 169.33, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 169.33, 
+         "to": 169.72, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 170.27, 
+         "to": 170.63, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 170.63, 
+         "to": 171.1, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 171.1, 
+         "to": 171.33, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 171.33, 
+         "to": 171.56, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 171.56, 
+         "to": 172.12, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 172.12, 
+         "to": 172.53, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 172.53, 
+         "to": 172.77, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 172.77, 
+         "to": 173.29, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 173.32, 
+         "to": 173.67, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 173.67, 
+         "to": 173.97, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 173.97, 
+         "to": 174.61, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 174.96, 
+         "to": 175.16, 
+         "speaker": 0, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 175.19, 
+         "to": 175.4, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 175.4, 
+         "to": 175.68, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 175.68, 
+         "to": 175.85, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 175.85, 
+         "to": 176.21, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 176.21, 
+         "to": 176.44, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 176.44, 
+         "to": 176.76, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 177.06, 
+         "to": 177.72, 
+         "speaker": 0, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 177.72, 
+         "to": 177.9, 
+         "speaker": 0, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 177.9, 
+         "to": 178.71, 
+         "speaker": 0, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 178.93, 
+         "to": 179.09, 
+         "speaker": 0, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 179.09, 
+         "to": 179.58, 
+         "speaker": 0, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 179.84, 
+         "to": 180.14, 
+         "speaker": 0, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 180.14, 
+         "to": 180.51, 
+         "speaker": 0, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 180.59, 
+         "to": 180.87, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 180.87, 
+         "to": 180.99, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 180.99, 
+         "to": 181.13, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 181.13, 
+         "to": 181.77, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 182.05, 
+         "to": 182.23, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 182.23, 
+         "to": 182.59, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 182.59, 
+         "to": 182.65, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 182.65, 
+         "to": 182.84, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 182.84, 
+         "to": 183.08, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 183.08, 
+         "to": 183.24, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 183.24, 
+         "to": 183.78, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 183.97, 
+         "to": 184.18, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 184.18, 
+         "to": 184.21, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 184.21, 
+         "to": 184.39, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 184.39, 
+         "to": 184.54, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 184.54, 
+         "to": 184.98, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 184.98, 
+         "to": 185.11, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 185.11, 
+         "to": 185.35, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 185.35, 
+         "to": 185.95, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 186.47, 
+         "to": 187.02, 
+         "speaker": 0, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 187.19, 
+         "to": 187.63, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 187.63, 
+         "to": 188.03, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 188.03, 
+         "to": 188.16, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 188.16, 
+         "to": 188.32, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 188.32, 
+         "to": 188.81, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 188.93, 
+         "to": 189.04, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 189.04, 
+         "to": 189.21, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 189.21, 
+         "to": 189.73, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 190.18, 
+         "to": 190.36, 
+         "speaker": 0, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 190.4, 
+         "to": 190.6, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 190.6, 
+         "to": 190.75, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 190.75, 
+         "to": 190.91, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 191.18, 
+         "to": 191.53, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 191.53, 
+         "to": 191.77, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 191.77, 
+         "to": 192.13, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 192.13, 
+         "to": 192.49, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 192.53, 
+         "to": 192.86, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 192.86, 
+         "to": 192.97, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 193.61, 
+         "to": 193.81, 
+         "speaker": 0, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 193.81, 
+         "to": 193.89, 
+         "speaker": 0, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 193.89, 
+         "to": 194.04, 
+         "speaker": 0, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 194.04, 
+         "to": 194.21, 
+         "speaker": 0, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 194.21, 
+         "to": 194.41, 
+         "speaker": 0, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 194.41, 
+         "to": 194.77, 
+         "speaker": 0, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 195.0, 
+         "to": 195.16, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 195.16, 
+         "to": 195.96, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 195.96, 
+         "to": 196.4, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 196.4, 
+         "to": 196.52, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 196.67, 
+         "to": 196.88, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 196.88, 
+         "to": 197.34, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 197.34, 
+         "to": 197.49, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 197.49, 
+         "to": 197.74, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 197.74, 
+         "to": 198.17, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 198.24, 
+         "to": 198.4, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 198.4, 
+         "to": 198.63, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 198.63, 
+         "to": 198.84, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 199.2, 
+         "to": 199.34, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 199.34, 
+         "to": 199.54, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 199.54, 
+         "to": 199.86, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 199.86, 
+         "to": 200.39, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 200.39, 
+         "to": 200.58, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 200.72, 
+         "to": 201.68, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 201.79, 
+         "to": 202.38, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 209.93, 
+         "to": 210.45, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 210.5, 
+         "to": 211.05, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 211.52, 
+         "to": 211.81, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 211.81, 
+         "to": 212.3, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 212.3, 
+         "to": 212.48, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 212.48, 
+         "to": 212.76, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 212.76, 
+         "to": 212.92, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 212.92, 
+         "to": 213.29, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 213.29, 
+         "to": 213.75, 
+         "speaker": 0, 
+         "confidence": 0.55, 
+         "final": false
+      }, 
+      {
+         "from": 213.98, 
+         "to": 214.44, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 214.44, 
+         "to": 214.66, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 214.66, 
+         "to": 214.93, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 214.93, 
+         "to": 215.04, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 215.04, 
+         "to": 215.17, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 215.76, 
+         "to": 216.17, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 216.17, 
+         "to": 216.51, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 216.51, 
+         "to": 216.54, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 216.54, 
+         "to": 216.85, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 216.85, 
+         "to": 217.07, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 217.07, 
+         "to": 217.19, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 217.19, 
+         "to": 217.29, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 217.29, 
+         "to": 217.38, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 217.38, 
+         "to": 217.46, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 217.46, 
+         "to": 217.67, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 217.67, 
+         "to": 218.02, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 218.02, 
+         "to": 218.24, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 218.24, 
+         "to": 218.55, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 218.55, 
+         "to": 218.65, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 218.65, 
+         "to": 218.78, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 218.78, 
+         "to": 219.02, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 219.02, 
+         "to": 219.11, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 219.11, 
+         "to": 219.22, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 219.22, 
+         "to": 219.63, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 219.63, 
+         "to": 220.05, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 220.18, 
+         "to": 220.94, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 221.03, 
+         "to": 221.23, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 221.23, 
+         "to": 221.56, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 221.7, 
+         "to": 222.06, 
+         "speaker": 1, 
+         "confidence": 0.66, 
+         "final": false
+      }, 
+      {
+         "from": 223.33, 
+         "to": 223.48, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 223.48, 
+         "to": 223.51, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 223.51, 
+         "to": 223.78, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 223.78, 
+         "to": 224.07, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 228.11, 
+         "to": 228.23, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 228.23, 
+         "to": 228.36, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 228.36, 
+         "to": 228.4, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 228.4, 
+         "to": 228.52, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 228.52, 
+         "to": 228.65, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 228.65, 
+         "to": 228.83, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 228.83, 
+         "to": 229.04, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 229.04, 
+         "to": 229.15, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 229.15, 
+         "to": 229.52, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 229.52, 
+         "to": 229.57, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 229.57, 
+         "to": 229.67, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 229.67, 
+         "to": 229.93, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 229.93, 
+         "to": 230.51, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 230.54, 
+         "to": 230.79, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 230.79, 
+         "to": 230.84, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 230.84, 
+         "to": 231.38, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 231.49, 
+         "to": 231.86, 
+         "speaker": 1, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 233.67, 
+         "to": 233.96, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 233.99, 
+         "to": 234.19, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 234.19, 
+         "to": 234.34, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 234.34, 
+         "to": 234.67, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 234.67, 
+         "to": 234.79, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 234.79, 
+         "to": 235.23, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 235.23, 
+         "to": 235.42, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 235.42, 
+         "to": 235.6, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 235.6, 
+         "to": 235.76, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 235.76, 
+         "to": 236.06, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 236.06, 
+         "to": 236.2, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 236.29, 
+         "to": 236.74, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 239.78, 
+         "to": 240.19, 
+         "speaker": 1, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 240.92, 
+         "to": 241.35, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 242.16, 
+         "to": 242.57, 
+         "speaker": 0, 
+         "confidence": 0.29, 
+         "final": false
+      }, 
+      {
+         "from": 242.57, 
+         "to": 242.92, 
+         "speaker": 0, 
+         "confidence": 0.29, 
+         "final": false
+      }, 
+      {
+         "from": 243.52, 
+         "to": 243.89, 
+         "speaker": 1, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 243.89, 
+         "to": 244.21, 
+         "speaker": 1, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 244.67, 
+         "to": 244.95, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 246.3, 
+         "to": 246.64, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 246.67, 
+         "to": 247.25, 
+         "speaker": 1, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 247.36, 
+         "to": 247.75, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 247.75, 
+         "to": 247.9, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 247.9, 
+         "to": 248.14, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 248.14, 
+         "to": 248.21, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 248.21, 
+         "to": 248.49, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 248.49, 
+         "to": 248.54, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 248.54, 
+         "to": 248.82, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 248.82, 
+         "to": 249.04, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 249.04, 
+         "to": 249.43, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 249.75, 
+         "to": 249.97, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 249.97, 
+         "to": 250.13, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 250.13, 
+         "to": 250.31, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 250.31, 
+         "to": 250.5, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 250.5, 
+         "to": 250.73, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 250.73, 
+         "to": 251.38, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 251.63, 
+         "to": 251.85, 
+         "speaker": 0, 
+         "confidence": 0.22, 
+         "final": false
+      }, 
+      {
+         "from": 251.85, 
+         "to": 251.98, 
+         "speaker": 0, 
+         "confidence": 0.22, 
+         "final": false
+      }, 
+      {
+         "from": 251.98, 
+         "to": 252.43, 
+         "speaker": 0, 
+         "confidence": 0.22, 
+         "final": false
+      }, 
+      {
+         "from": 252.47, 
+         "to": 252.73, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 254.24, 
+         "to": 255.12, 
+         "speaker": 1, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 255.24, 
+         "to": 255.56, 
+         "speaker": 0, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 256.06, 
+         "to": 257.19, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 257.22, 
+         "to": 257.48, 
+         "speaker": 0, 
+         "confidence": 0.42, 
+         "final": false
+      }, 
+      {
+         "from": 258.19, 
+         "to": 258.53, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 258.53, 
+         "to": 259.1, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 259.33, 
+         "to": 260.17, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 260.17, 
+         "to": 260.22, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 260.22, 
+         "to": 260.41, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 260.41, 
+         "to": 261.03, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 261.06, 
+         "to": 261.76, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 261.76, 
+         "to": 261.89, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 261.89, 
+         "to": 262.2, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 262.2, 
+         "to": 262.31, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 262.31, 
+         "to": 262.55, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 262.55, 
+         "to": 263.04, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 264.02, 
+         "to": 264.65, 
+         "speaker": 1, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 264.72, 
+         "to": 265.1, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 265.36, 
+         "to": 265.53, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 265.53, 
+         "to": 266.04, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 266.13, 
+         "to": 266.35, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 266.35, 
+         "to": 266.72, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 266.87, 
+         "to": 267.1, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 267.13, 
+         "to": 267.32, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 268.13, 
+         "to": 269.08, 
+         "speaker": 1, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 269.19, 
+         "to": 269.3, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 269.3, 
+         "to": 269.59, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 269.59, 
+         "to": 269.8, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 269.87, 
+         "to": 270.04, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 270.04, 
+         "to": 270.41, 
+         "speaker": 1, 
+         "confidence": 0.64, 
+         "final": false
+      }, 
+      {
+         "from": 270.57, 
+         "to": 271.16, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 271.25, 
+         "to": 272.09, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 272.12, 
+         "to": 272.45, 
+         "speaker": 0, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 272.48, 
+         "to": 273.44, 
+         "speaker": 0, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 273.47, 
+         "to": 273.87, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 273.87, 
+         "to": 274.02, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 274.02, 
+         "to": 274.1, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 274.1, 
+         "to": 274.27, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 274.27, 
+         "to": 274.6, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 274.6, 
+         "to": 274.72, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 274.72, 
+         "to": 275.05, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 275.05, 
+         "to": 275.19, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 275.19, 
+         "to": 275.37, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 275.37, 
+         "to": 275.67, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 275.67, 
+         "to": 276.0, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 276.0, 
+         "to": 276.1, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 276.1, 
+         "to": 276.41, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 276.41, 
+         "to": 276.5, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 276.5, 
+         "to": 276.69, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 276.69, 
+         "to": 276.82, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 276.82, 
+         "to": 277.08, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 277.97, 
+         "to": 278.32, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 278.32, 
+         "to": 278.45, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 278.45, 
+         "to": 278.53, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 278.53, 
+         "to": 278.87, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 278.87, 
+         "to": 279.12, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 279.28, 
+         "to": 279.54, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 279.54, 
+         "to": 279.71, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 279.71, 
+         "to": 279.83, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 279.83, 
+         "to": 280.05, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 280.05, 
+         "to": 280.19, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 280.19, 
+         "to": 280.34, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 280.34, 
+         "to": 280.43, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 280.43, 
+         "to": 280.75, 
+         "speaker": 0, 
+         "confidence": 0.57, 
+         "final": false
+      }, 
+      {
+         "from": 281.9, 
+         "to": 282.08, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 282.08, 
+         "to": 282.44, 
+         "speaker": 0, 
+         "confidence": 0.53, 
+         "final": true
+      }
+   ]
+}
