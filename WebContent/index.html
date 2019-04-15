@@ -64,7 +64,26 @@
 
           <div class="form-group mx-sm-1 mb-2">
             <button type="button" id="send" class="form-control btn btn-outline-dark gibtn" data-toggle="tooltip" data-placement="top" title="Afficher l'analyse."><span class="glyphicons glyphicons-cogwheels" aria-hidden="true"></span></button>
+            <!-- <div class="dropdown">
+              <button class="form-control btn btn-outline-dark dropdown-toggle" type="button" id="send" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Afficher l'analyse."><span class="glyphicons glyphicons-cogwheels" aria-hidden="true"></span></button>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                 <a class="dropdown-item" id="sendG" href="#">Google</a>
+                 <a class="dropdown-item" id="sendW" href="#">Watson</a>
+              </div>
+            </div> -->
           </div>
+
+            <div class="form-group mx-sm-1 mb-2">
+              <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                <label class="btn btn-outline-dark active">
+                  <input type="radio" name="options" id="optionG" autocomplete="off" value="G" checked>Google</input>
+                </label>
+                <label class="btn btn-outline-dark">
+                  <input type="radio" name="options" id="optionW" autocomplete="off" value="W">Watson</input>
+                </label>
+              </div>
+            </div>
+
 
           <div class="form-group mx-sm-1 mb-2">
             <button type="button" id="save" class="form-control btn btn-outline-dark gibtn" data-toggle="tooltip" data-placement="top" title="Sauvegarder"><span class="glyphicons glyphicons-floppy-save" aria-hidden="true"></span></button>
@@ -98,33 +117,6 @@
   		  </div>
   		</div>
   		<!-- dynamic modal -->
-
-
-      <!-- logout modal -->
-  	  <div class="modal fade" id="modLogout" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  	    <div class="modal-dialog" role="document">
-  	      <div class="modal-content">
-  	        <div class="modal-header">
-  	          <h4 class="modal-title" id="myModalLabel">Speech to Customer Engagement</h4>
-  	        </div>
-  	        <div class="modal-body">
-
-  						<p><h5>Do you really want to exit ?</h5></p>
-
-  	        </div>
-  	        <div class="modal-footer">
-  						<form method="post" action='ibm_security_logout' name="logout_form">
-  							<INPUT TYPE="HIDDEN" name="logoutExitPage" VALUE="/index.html">
-  							<input type="submit" class="btn btn-danger" name="logout" value="Quitter">
-  							<button type="button" class="btn btn-default" data-dismiss="modal">Annuler</button>
-  	          </form>
-
-  	          <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
-  	        </div>
-  	      </div>
-  	    </div>
-  	  </div>
-  	  <!-- logout modal -->
 
       <!-- jQuery library -->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>

@@ -69,10 +69,21 @@ public class LoadPlaylistTrackServlet extends HttpServlet {
 				
 				String recordName = ((String) parms.get("track")).split("/")[1].split("\\.")[0];
 				System.out.println(recordName);
-				Path analyze = Paths.get(realPath + "/" + "analysis/" + recordName + ".json");
+				
+				request.getSession().setAttribute("recordName", recordName);
+				
+				Path analyze = Paths.get(realPath + "/" + "analysis/google/" + recordName + ".json");
 				if(Files.exists(analyze)) {
-					Files.copy(analyze, Paths.get(realPath + "/" + "analysis/analyze.json"), StandardCopyOption.REPLACE_EXISTING);
-					result.put("ANSWER_1", analyze + " has been copied." + " to /analysis/analyze.json");
+					Files.copy(analyze, Paths.get(realPath + "/" + "analysis/ganalyze.json"), StandardCopyOption.REPLACE_EXISTING);
+					result.put("ANSWER_1", analyze + " has been copied." + " to /analysis/ganalyze.json");
+					result.put("STATUS_1", "OK");
+					
+				}
+
+				analyze = Paths.get(realPath + "/" + "analysis/watson/" + recordName + ".json");
+				if(Files.exists(analyze)) {
+					Files.copy(analyze, Paths.get(realPath + "/" + "analysis/wanalyze.json"), StandardCopyOption.REPLACE_EXISTING);
+					result.put("ANSWER_1", analyze + " has been copied." + " to /analysis/wanalyze.json");
 					result.put("STATUS_1", "OK");
 					
 				}

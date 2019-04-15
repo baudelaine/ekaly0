@@ -55,10 +55,25 @@ public class AnalyzeCustomerEngagementToneServlet extends HttpServlet {
 		result.put("SERVER", request.getLocalAddr() + ":" + request.getLocalPort());
 		result.put("FROM", this.getServletName());
 		
+		
 		try{
 
 			Path realPath = Paths.get(getServletContext().getRealPath("/"));
-			Path analyze = Paths.get(realPath + "/" + "analysis/analyze.json");
+			
+			String parm = request.getParameter("parm");
+			
+			System.out.println("parm=" + parm);
+			
+			Path analyze = null;
+
+			switch(parm) {
+				case "G":
+					analyze = Paths.get(realPath + "/" + "analysis/ganalyze.json");
+					break;
+				case "W":
+					analyze = Paths.get(realPath + "/" + "analysis/wanalyze.json");
+					break;
+			}
 			
         	if(Files.exists(analyze)) {
         		

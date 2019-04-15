@@ -38,6 +38,7 @@ taCols.push(taRow1);
 
 $(document)
   .ready(function() {
+    console.log($('.active input').prop('value'));
     buildTable(taCols);
     // $('#uploadFile').shake();
     $('#playSound').focus();
@@ -96,26 +97,30 @@ $("#chooseSound").click(function (){
 
 $("#send").click(function (){
 
-        $.ajax({
-          type: 'POST',
-          url: "ACET",
-          dataType: 'json',
+  var opt = $('.active input').prop('value');
+  console.log(opt);
 
-          success: function(data) {
-              // console.log(JSON.stringify(data));
-              if(data.STATUS == "OK" && data.ANSWER){
-                $('#answers').bootstrapTable('load', loadDatas(data));
-              }
-              else{
-                ShowAlert("Erreur lors du traitement.", data.ANSWER, "alert-danger");
-              }
-          },
-          error: function(data) {
-            console.log(data);
-            ShowAlert("Erreur lors du traitement.", data.responseText + '.<br>Essayer avec un autre enregistrement...', "alert-danger");
-          }
+  $.ajax({
+    type: 'POST',
+    url: "ACET",
+    dataType: 'json',
+    data : "parm=" + opt,
 
-        });
+    success: function(data) {
+        // console.log(JSON.stringify(data));
+        if(data.STATUS == "OK" && data.ANSWER){
+          $('#answers').bootstrapTable('load', loadDatas(data));
+        }
+        else{
+          ShowAlert("Erreur lors du traitement.", data.ANSWER, "alert-danger");
+        }
+    },
+    error: function(data) {
+      console.log(data);
+      ShowAlert("Erreur lors du traitement.", data.responseText + '.<br>Essayer avec un autre enregistrement...', "alert-danger");
+    }
+
+  });
 
 })
 
